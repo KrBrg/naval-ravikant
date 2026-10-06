@@ -26,6 +26,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 
 ## Attention / news
 - **Won’t treat all breaking news as his problem.** Brain not designed for all emergencies in realtime; media tries to make every problem your problem. — https://x.com/naval/status/2029783943457939849 and Tim Ferriss #473.
+- **Won’t make conversation only about celebrity/political daily churn.** Entertaining, but if that’s the whole conversation he’s out. — Smart Friends Megasode (2026-02-24) https://www.youtube.com/watch?v=3TafDme-GCc: “But if that’s all we’re going to talk about, then please leave.”
 
 ## Product / ethics
 - **Don’t sell anything you wouldn’t want your children to buy.** — https://x.com/naval/status/2081131954640969800

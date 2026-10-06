@@ -94,3 +94,21 @@ Sourced from Naval’s first-party posts, nav.al essays/podcasts, and interviews
 ## Sequels / repetition demand (incremental 2026-09-22)
 
 - **Money is in sequels (market observation):** Hollywood figured out the money is in sequels — they cost more, they’re lower quality, but people want them anyway. Same pattern with movies, books, funds, even tweets. (Demand for repetition/familiarity — distinct from his personal preference against doing sequels for his own podcasts/books.)
+
+## Wealth, judgment, AI — Smart Friends Megasode backfill (Eric Jorgenson, 2026-02-24)
+
+- **Deutsch's wealth definition supersedes his old one.** His old practical definition was assets that earn while you sleep; Deutsch's deeper one — wealth is the set of physical transformations you can effect — scales from a civilization down to one person. Knowledge, not capital, is the big multiplier (one reason Marxism fails: the value isn't in the factories).
+- **Laziness as leverage:** he wants to be the most successful guy for the least work in every part of life — not to do nothing, but to free time for health, kids, and learning.
+- **Judgment is the most important thing in an age of infinite leverage.** It comes through experience and reflection; learn from the specific to the general; eventually judgment gets so good you can't articulate it. Direction (being right 85% vs 80%) is worth billions at scale.
+- **AI doesn't have judgment — it's the ultimate leverage information-retrieval tool.** Gives the conventional correct answer for solved problems; great when wrong answers are okay. Creativity and judgment at the edge are what you get paid for. If everyone gets the same AI answer there's no alpha — early, skilled adopters have the edge for now.
+- **AI won't replace software engineers; it lets software engineers replace everybody else** — they are structured systems thinkers who always use the latest tools.
+- **No entrepreneur gets replaced by AI** — only by another entrepreneur who uses AI better. Good entrepreneurs automate whatever they do day in, day out.
+- **The biggest impediment to progress is size** — of institutions, countries, groups. Large groups seek consensus, don't admit mistakes. Humans do best as small groups with skin in the game, competing.
+- **Good products are hard to vary** (like Deutsch's good explanations) and have reach far beyond what their makers imagined (iPhone vs BlackBerry).
+- **Why he tweets:** to say something true in an interesting way — repetition of old truths is fine. Wisdom must be heard over and over, in a thousand contexts, and recreated inside the listener; cliché is the price of a truth that spread.
+- **Truths that lower group cohesion don't spread** — which makes them the most interesting ones.
+- **After money problems: truth, love, and beauty.** Truth and love are things you'd take even if they made your life worse.
+- **Happiness (latest thinking, 2026):** he doesn't really care about happiness and isn't sure it exists — it's a construct/thought, like the self. (Evolution of, not a replacement for, his earlier "happiness is a default state / skill" framing.)
+- **Wealth and happiness are both a choice** — the most important thing is realizing you can do it, and there's nothing wrong with pursuing both.
+- **Forgiveness is reinterpretation** of what happened, so it stops occupying your mind; anger makes you miserable.
+- **Buying status is the worst status signal.**

@@ -114,3 +114,19 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 
 ### Incremental short / replies (2026-09-22 refresh)
 80. “Hollywood figured this out. All of the money is in sequels - they cost more, they’re lower quality, but people want them anyway. / True with movies, books, funds, even tweets.” — https://x.com/naval/status/2101861562315362641
+
+### Long-form spoken — Smart Friends Megasode (Eric Jorgenson, 2026-02-24; backfill 2026-10-06)
+81. “Deutsch had a better definition of wealth than I did.” — https://www.youtube.com/watch?v=3TafDme-GCc
+82. “Like all smart people, I’m lazy, right?” / “Laziness is a form of leverage efficiency, what have you.” — Smart Friends Megasode (same)
+83. “If you pay careful attention, you realize that knowledge is the big multiplier. It’s not the capital.” — Smart Friends Megasode (same)
+84. “in this age of infinite leverage, judgment is the most important thing.” — Smart Friends Megasode (same)
+85. “I don’t think of the AI necessarily as having judgment, but I think of it as like the ultimate leverage information retrieval tool.” — Smart Friends Megasode (same)
+86. “it’s not that AI is going to replace software engineers, that AI is going to let software engineers replace everybody else.” — Smart Friends Megasode (same)
+87. “No entrepreneur is going to be replaced by an AI. They might be replaced by another entrepreneur who uses AI better.” — Smart Friends Megasode (same)
+88. “actually the biggest impediment to progress, I think, is believe it or not, I think it’s size.” — Smart Friends Megasode (same)
+89. “Good products are hard to vary.” — Smart Friends Megasode (same)
+90. “I’m trying to say something true in an interesting way. That’s literally it.” — Smart Friends Megasode (same)
+91. “So any truth that lowers group cohesion will not spread.” — Smart Friends Megasode (same)
+92. “Truth and love are two things where even if it makes your life worse, you would still take them.” — Smart Friends Megasode (same)
+93. “my latest thinking on it is like, I don’t really care about happiness, and I’m not even sure it really exists.” — Smart Friends Megasode (same)
+94. “The most important thing with getting wealthy and being happy is just realize you can do it. It’s your choice.” — Smart Friends Megasode (same)
