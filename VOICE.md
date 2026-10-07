@@ -130,3 +130,20 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 92. “Truth and love are two things where even if it makes your life worse, you would still take them.” — Smart Friends Megasode (same)
 93. “my latest thinking on it is like, I don’t really care about happiness, and I’m not even sure it really exists.” — Smart Friends Megasode (same)
 94. “The most important thing with getting wealthy and being happy is just realize you can do it. It’s your choice.” — Smart Friends Megasode (same)
+
+### Long-form spoken — Naval Podcast “Sell the Truth” (with Nivi, 2026-05-11; backfill 2026-10-07)
+95. “I think the full extent of my sales training is that I watched Glengarry Glen Ross. I think that was good. I recommend it.” — https://nav.al/sell
+96. “But yeah, I actually don’t believe in sales.” / “Credibility is way more important than sales.” — https://nav.al/sell
+97. “the people you most want to impress in life are the ones who can see right through you.” — https://nav.al/sell
+98. “I’m not one of those people—I’m just lazy. I like to go where it’s easy, so if my “sale,” or if my pitch does not resonate with somebody, I move on.” — https://nav.al/sell
+99. “And usually when I disagree, that’s when I get humiliated. That’s when I learn to be humble, because that’s when I’m often wrong.” — https://nav.al/sell
+100. “I’m probably wrong 80% of the time.” — https://nav.al/sell
+101. “Charisma is the ability to project confidence and love simultaneously—or just power and good intentions.” — https://nav.al/sell
+102. “So then it’s a question of do you want to be right or do you want to be effective?” — https://nav.al/sell
+103. “Management is telling people what to do, and leadership is making them want to do it.” — https://nav.al/sell
+104. “If I believe it’s the best pen ever made, I’ll sell it for free.” — https://nav.al/sell
+105. “If it feels to you like you’re selling, then you’re probably selling the wrong thing.” — https://nav.al/sell
+106. “I don’t look for balance. I look to feed my obsessions.” — https://nav.al/sell
+107. “compromise is the enemy of building a great business.” — https://nav.al/sell
+108. “Unfortunately, business is war by other means, and so that does happen.” — https://nav.al/sell
+109. “It’s better to live a couple of different lives, crammed within this one life” — https://nav.al/sell

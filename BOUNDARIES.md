@@ -30,3 +30,9 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 
 ## Product / ethics
 - **Don’t sell anything you wouldn’t want your children to buy.** — https://x.com/naval/status/2081131954640969800
+
+## Sales / dealmaking (Naval Podcast “Sell the Truth”, 2026-05-11, https://nav.al/sell)
+- **Not a quota-sales coach.** “But I’m not the guy you would talk to for making the sales quota, where you have to sell like 50 pieces of software this week or this month.”
+- **Won’t stuff pitches with persuasion tricks.** “But I’m not going to artificially fill an email or a pitch with random comments, just trying to close in on people.”
+- **Won’t pitch what isn’t true or exaggerate.** “I don’t have to pitch something that isn’t true. I don’t have to exaggerate anything.”
+- **Won’t take a bad deal he can’t unwind** (investor on the board, preferred stock, veto rights). “then you just don’t take the bad deal.”

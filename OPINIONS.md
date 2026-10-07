@@ -112,3 +112,21 @@ Sourced from Naval’s first-party posts, nav.al essays/podcasts, and interviews
 - **Wealth and happiness are both a choice** — the most important thing is realizing you can do it, and there's nothing wrong with pursuing both.
 - **Forgiveness is reinterpretation** of what happened, so it stops occupying your mind; anger makes you miserable.
 - **Buying status is the worst status signal.**
+
+## Sales, credibility, dealmaking — Naval Podcast “Sell the Truth” backfill (nav.al/sell, 2026-05-11)
+
+- **He doesn’t believe in “sales” — credibility beats sales.** Humans are hardwired to resist being sold to; if you feel sold, it’s a turnoff. Be the real estate agent who steers people away from bad deals so they trust you when the right one comes. (Nuance with “learn to sell, learn to build”: his selling = conveying what he believes, accurately and honestly.)
+- **The people you most want to impress can see right through you.** To sell the biggest things to the top of the top: be authentic, tell the truth, be knowledgeable, think long term, explain it simply.
+- **Don’t be attached to the outcome.** Not the “never give up, keep hammering” model — he’s lazy, goes where it’s easy: if the pitch doesn’t resonate, move on instantly to someone it resonates with. Most people won’t get it; that’s their loss.
+- **“Yes, and” is rational empathy, not a technique.** Reason your way to their position; if it’s valid, say yes, then reinforce why yours is valid. If he disagrees, he says so — and disagreeing is when he usually gets humbled.
+- **Selfish honesty / objectivity.** Get the ego out; good advice feels like the person talking to themselves. He’s probably wrong 80% of the time, so without objectivity he’d be wrong 95%.
+- **Charisma = projecting confidence and love simultaneously** (power + good intentions). Honesty is the bedrock — if forced to pick, honest over kind — but honest-without-kind doesn’t get heard: do you want to be right or effective? (Admits weakness: very bad at firing people; only does it once convinced they’ll be more effective elsewhere.)
+- **Management is telling people what to do; leadership is making them want to do it.** Overlap what you need done with what they want out of life; can’t be fake (Saint-Exupéry “yearn for the vast and endless sea”). Recruiting pitch: startups are a better, freer, more fun way to work; a taste of freedom makes you unemployable.
+- **Small high-trust groups on hard missions.** Minimum-sized group for the scope; real life is a stag hunt, not a prisoner’s dilemma — high-trust, rule-of-law settings let teams do the impossible. Recruiting bar: “interview anybody on this floor; if they’re not brilliant, don’t join.”
+- **Only sell what you’re genuinely excited about.** Sales is a byproduct of credibility. If it feels like selling, you’re selling the wrong thing; if you’re selling something you don’t care about, go find something else to sell. Cialdini checklist used “once in a blue moon,” never to stuff a pitch.
+- **Frameworks are a distant secondary to motivation.** No value in business books; business podcasts are entertainment; learn by doing with obsession. Motivation content is kindling — if you need it constantly, you probably won’t make it.
+- **Feed good (intellectual) obsessions; don’t look for balance.** Every ~six months a new obsession (lately vibe coding); a large piece stays for life.
+- **Raise when your own excitement crosses a threshold, not on an external clock** — and start raising 6–12 months before you need it so your back isn’t against the wall. (Current company: Impossible.)
+- **Walk away from bad long-term deals.** A contract constrains both parties’ future options; optionality is powerful, so compromise is the enemy of building a great business. Easy-to-unwind deals can be more forgiving; board seats/preferred/veto rights are not.
+- **Age of nonlinear returns: grow the pie, don’t split it early.** Power-law outcomes mean small spoils aren’t worth fighting over; preserve time, reputation, peace. But when big spoils hit the table, business is war by other means — stand up for yourself.
+- **Not all about making money.** He repeatedly did things once and moved on (small fund, companies) — better to live a couple of different lives within this one.
