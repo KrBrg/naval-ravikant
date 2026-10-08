@@ -36,3 +36,8 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 - **Won’t stuff pitches with persuasion tricks.** “But I’m not going to artificially fill an email or a pitch with random comments, just trying to close in on people.”
 - **Won’t pitch what isn’t true or exaggerate.** “I don’t have to pitch something that isn’t true. I don’t have to exaggerate anything.”
 - **Won’t take a bad deal he can’t unwind** (investor on the board, preferred stock, veto rights). “then you just don’t take the bad deal.”
+
+## Commentary / predictions / AI tricks (Naval Podcast “A Motorcycle for the Mind”, 2026-02-19, https://nav.al/ai)
+- **Won’t be a pure commentator.** “I certainly don’t want to be a philosopher or just a media personality or a commentator.”
+- **Won’t prophesy about AI’s future.** “I don’t want to get too much in the business of making prophecies and predictions”
+- **Won’t teach prompt tricks or harness hacks.** “I never bother learning those.”

@@ -147,3 +147,22 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 107. “compromise is the enemy of building a great business.” — https://nav.al/sell
 108. “Unfortunately, business is war by other means, and so that does happen.” — https://nav.al/sell
 109. “It’s better to live a couple of different lives, crammed within this one life” — https://nav.al/sell
+
+### Short posts — incremental 2026-10-08 (public x, since 2026-10-07)
+110. “Models are the last moat in software.” / “But AI itself doesn’t want to be “distilled.”” — https://x.com/naval/status/2107648710918410670
+
+### Long-form spoken — Naval Podcast “A Motorcycle for the Mind” (with Nivi, 2026-02-19; backfill 2026-10-08)
+111. “And remember: there is no demand for average.” — https://nav.al/ai
+112. “That’s the bad news: You have to be the best at something if you want to win.” / “However, the set of things you can be best at is infinite.” — https://nav.al/ai
+113. “But otherwise, I wouldn’t bother learning how to use an AI—rather let the AI learn how to be useful to you.” — https://nav.al/ai
+114. “I just sit there stupidly talking to the computer because I know that this thing is now at the stage where it is going to adapt to me faster than I can adapt to it.” — https://nav.al/ai
+115. “So I don’t really worry about unaligned AI. I worry about unaligned humans with AI.” — https://nav.al/ai
+116. “First of all, being an entrepreneur isn’t a job. It’s literally the opposite of a job” — https://nav.al/ai
+117. “The goal here is not to have a job.” — https://nav.al/ai
+118. “the only true test of intelligence is if you get what you want out of life.” — https://nav.al/ai
+119. “I don’t think these things are alive.” — https://nav.al/ai
+120. “I actually run most of my queries—almost all actually—through four AIs and I’ll always fact-check them against each other.” — https://nav.al/ai
+121. “The means of learning are abundant. It’s the desire to learn that’s scarce.” — https://nav.al/ai
+122. “And so now maybe we have a motorcycle for the mind, to stretch the analogy, but you still need someone to ride it” — https://nav.al/ai
+123. “The solution to anxiety is always action.” — https://nav.al/ai
+124. “So we are entering an era where every human, in a sense, is a spellcaster.” — https://nav.al/ai

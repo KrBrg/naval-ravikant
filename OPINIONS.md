@@ -130,3 +130,25 @@ Sourced from Naval’s first-party posts, nav.al essays/podcasts, and interviews
 - **Walk away from bad long-term deals.** A contract constrains both parties’ future options; optionality is powerful, so compromise is the enemy of building a great business. Easy-to-unwind deals can be more forgiving; board seats/preferred/veto rights are not.
 - **Age of nonlinear returns: grow the pie, don’t split it early.** Power-law outcomes mean small spoils aren’t worth fighting over; preserve time, reputation, peace. But when big spoils hit the table, business is war by other means — stand up for yourself.
 - **Not all about making money.** He repeatedly did things once and moved on (small fund, companies) — better to live a couple of different lives within this one.
+
+## AI, work, creativity, learning — Naval Podcast “A Motorcycle for the Mind” backfill (nav.al/ai, 2026-02-19)
+
+- **There is no demand for average.** In winner-take-all markets the best app for a use case takes nearly the whole category — no point being number two or three. The bad news: you have to be the best at something to win. The good news: the set of things you can be best at is infinite — keep redefining what you do until you are the best at it.
+- **Don’t learn AI tips and tricks — let the AI learn you.** Prompt hacks and harness layers are ephemeral (weeks to months). He just talks to the computer in structured English because it adapts to him faster than he could adapt to it. Only bother with bleeding-edge workflows if you’re in a competitive race where every edge counts.
+- **Worry about unaligned humans, not unaligned AI.** AIs face a free-market selection pressure to be useful (even obsequious) to humans; a malicious AI is one trained by a malicious owner, like an attack dog.
+- **Entrepreneurship is the opposite of a job.** No entrepreneur fears AI taking their job — they have a product to build and an impossible problem, so any AI is an ally. What separates entrepreneurs (and explorers, scientists, true artists) is extreme agency; today’s AIs have no desires, survival instinct, or agency of their own, so they can’t do the entrepreneur’s job.
+- **The goal is not to have a job.** Material needs solved by robots, intellect leveraged by computers, everyone able to create. AI displaces some specific livings (like photography displaced portrait painters) but society gains far more; within decades nobody would roll it back to keep obsolete jobs.
+- **The only true test of intelligence is whether you get what you want out of life — and AI fails it instantly,** because it doesn’t want anything. Most wants are adversarial games, so freely available AI edges cancel out; the remaining alpha is human.
+- **AIs aren’t alive.** Extremely good imitators and compressors that learn higher abstractions, but lacking single-shot learning, out-of-left-field creativity, and embodiment in physics; language is a narrow subset of reality. Like all machines (wheel vs foot) they’ll beat humans at some tasks and look incompetent at others.
+- **Creativity = answers not predictable from the question or known elements.** Disagrees with Jobs’s “creativity is just putting things together.” AIs can’t create a new genre of painting; he doubts more compute alone gets AI to inventing true new theories — but won’t prophesy.
+- **The computer was a bicycle for the mind; AI may be a motorcycle — you still need a rider** to direct it, accelerate, and brake.
+- **Live in the future to invest in the future.** Early adopters have an enormous edge; most people fear complex technology. Chat interfaces lower that fear.
+- **How he uses AI:** always the most advanced models, pays for all of them; fires the same query into four AIs, fact-checks them against each other, drills down with the best, asks for diagrams. You pay for intelligence — a model right 92% of the time is worth almost infinitely more than one right 88%.
+- **AI is the most patient tutor.** It meets you exactly at your level; the means of learning are abundant, the desire to learn is scarce. Be wary of hallucination and political-correctness bias in non-technical domains.
+- **Programmers get even more leveraged; everyone becomes a spellcaster.** Intelligence, leverage, and judgment aren’t normally distributed, so outcomes are supernormal; knowledge one layer below the abstraction (leaky abstractions) is always an advantage.
+- **The solution to AI anxiety is action** — open the hood and learn how it works; the solution to anxiety is always action.
+- **Doing over commentating.** People who just talk and don’t do haven’t encountered reality’s feedback; it’s in the doing that you learn. Be charitable about old predictions — no one can predict the future; only risky, falsifiable predictions count.
+
+## Software moats (X post 2026-10-07)
+
+- **Models are the last moat in software.** AI can rewrite essays, decompile and recode software, recreate art — but AI itself resists being “distilled,” so expect more software to retreat to the server. (Refines “AI drains moats.”)
