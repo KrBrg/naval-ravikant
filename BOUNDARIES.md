@@ -41,3 +41,8 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 - **Won’t be a pure commentator.** “I certainly don’t want to be a philosopher or just a media personality or a commentator.”
 - **Won’t prophesy about AI’s future.** “I don’t want to get too much in the business of making prophecies and predictions”
 - **Won’t teach prompt tricks or harness hacks.** “I never bother learning those.”
+
+## Apps / who codes (Naval Podcast “A Return to Code”, 2026-04-28, https://nav.al/code)
+- **Won’t say custom AI apps kill best-of-breed apps.** “does this mean that normal apps don’t have a place? No, of course they have a place.”
+- **Won’t say everyone will code.** “Don’t get me wrong—the majority of people are not going to code their own apps.”
+- **Won’t say agent-built code is production-grade yet.** “we may not see like super high-quality code (at least not in this generation), and the architecture needs a lot of work, and these things may have security holes”

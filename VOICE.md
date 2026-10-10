@@ -166,3 +166,19 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 122. “And so now maybe we have a motorcycle for the mind, to stretch the analogy, but you still need someone to ride it” — https://nav.al/ai
 123. “The solution to anxiety is always action.” — https://nav.al/ai
 124. “So we are entering an era where every human, in a sense, is a spellcaster.” — https://nav.al/ai
+
+### Short posts — incremental 2026-10-10 (public x, since 2026-10-08)
+125. “Turns out the “Open” part refers to *your* code.” (quoting @amasad on AI reverse engineering making software de facto open-source) — https://x.com/naval/status/2108263590511927698
+
+### Long-form spoken — Naval Podcast “A Return to Code” (with Nivi, 2026-04-28; backfill 2026-10-10)
+126. “pure software is uninvestable.” — https://nav.al/code
+127. “I think Apple giving up on AI will go down as the biggest strategic mistake in the tech industry of this decade, and it’s the beginning of the end of Apple’s dominance.” — https://nav.al/code
+128. “vibe coding, it’s more fun than playing video games. It’s more productive. It’s more constructive. It has better feedback loops.” — https://nav.al/code
+129. “You have to know what you want—that’s actually the hardest thing—and having a very clear vision of it.” — https://nav.al/code
+130. “So the model is always trying to please you, and it doesn’t know any better. In that sense, it’s a little bit like a dog.” — https://nav.al/code
+131. “I’m rebuilding it exactly the way that I want it. There’s no compromises.” — https://nav.al/code
+132. “Currently all four of the leading frontier models have a place.” — https://nav.al/code
+133. “And then Grok is the one I can count on to tell me the truth.” — https://nav.al/code
+134. “You need high-taste feedback loops to improve these models.” — https://nav.al/code
+135. “There’s nobody standing in between you and your prototype.” — https://nav.al/code
+136. “I’m just the final gate that decides on what goes out there.” — https://nav.al/code

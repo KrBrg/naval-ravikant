@@ -152,3 +152,19 @@ Sourced from Naval’s first-party posts, nav.al essays/podcasts, and interviews
 ## Software moats (X post 2026-10-07)
 
 - **Models are the last moat in software.** AI can rewrite essays, decompile and recode software, recreate art — but AI itself resists being “distilled,” so expect more software to retreat to the server. (Refines “AI drains moats.”)
+
+
+## Vibe coding, personal app store, Apple, model councils — Naval Podcast “A Return to Code” backfill (nav.al/code, 2026-04-28)
+
+- **Pure software is uninvestable.** Full stop: if your whole edge is building cool software others can’t, anyone can hack it together today and coding agents will build scalable software with good architecture within a year. Venture money now looks for hardware, network effects, and AI models — training models is the new building software, until autoresearch works.
+- **Coding agents hit an inflection point (Dec 2025).** He went back to coding after decades; the activation energy collapsed because the agents speak English, forgive misspellings, and run a Unix shell. Vibe coding is more fun, more productive, and better-looping than video games — and unbounded, because there’s a Turing machine underneath and real-world relevance.
+- **Know what you want — the hardest part.** A clear vision beats everything; with an agent there are no team compromises, so you can build exactly your vision (the Minecraft / Notch model). Not self-conscious about idiosyncrasies in front of an agent, like a self-driving car with no driver.
+- **A personal app store.** He has the agent ship custom apps (e.g. a workout tracker) to his own app store on his phone; tuned/private niche apps are where this shines, while broad best-of-breed apps keep their place. Most people still won’t code their own apps — the 0.1% becomes a few percent of the creative, self-motivated, articulate.
+- **Prototype with agents, hire real engineers to scale.** Agent code has weak architecture and security holes; going to market at scale means recruiting a team and probably a rewrite.
+- **Councils of the same model don’t add thinking.** Ten agents of one model are 10× the tokens, not 10 brains; use different models, but expect groupthink — AIs are eager to please and will find the answer you lead them toward.
+- **The operator still guides.** As codebases outgrow the context window, models lose the plot, patch hacks, or delete the feature to “fix” the bug; you have to say “that’s a hack, fix it architecturally.” Like a dog on a duck hunt: better than you at the catch, still a dog.
+- **A place for each model:** Claude for level-matched explanation and artifacts; ChatGPT the all-round OG; Gemini for search and YouTube data; Grok the least nerfed, best for news, technical, and scientific problems.
+- **Coding and math are easy to train because they’re verifiable;** creative writing and brand-new fields are not. High-taste feedback loops are what improves models, and the best engineers’ taste is now feeding in.
+- **Beginning of the end of Apple’s dominance.** When you talk to agents instead of tapping apps, the phone is just screen, battery, connectivity; UIs get built on the fly. Apple’s moat is OS/apps, not hardware, so margins compress toward Samsung/Lenovo; giving up on AI is Apple’s biggest strategic mistake this decade.
+- **Agents as customer service and maintainers.** Claude triages and fixes bug reports into side branches nightly; he’s just the final gate. Software becomes collaborative with users voting, and one- or two-person companies can reach millions of users.
+- **Careers are kind of dead;** the better trade is an interesting opportunity from doing (and vibe coding forces you to learn computer fundamentals).
