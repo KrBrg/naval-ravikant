@@ -182,3 +182,19 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 134. “You need high-taste feedback loops to improve these models.” — https://nav.al/code
 135. “There’s nobody standing in between you and your prototype.” — https://nav.al/code
 136. “I’m just the final gate that decides on what goes out there.” — https://nav.al/code
+
+### Long-form spoken — Naval Podcast “‘Nothing Ever Happens’ Is Over” (with Nivi, 2026-05-04; backfill 2026-10-11)
+137. “I actually hate organizational management because I hate organizations.” — https://nav.al/over
+138. “Instead, I like the fully interconnected graph.” — https://nav.al/over
+139. “You don’t need the explicit intranet as much anymore.” — https://nav.al/over
+140. “So having AI just lets everybody do a little bit of everything. It makes them more generalist.” — https://nav.al/over
+141. “I don’t want to be in the futurist business.” — https://nav.al/over
+142. “I think that’s over.” — https://nav.al/over
+143. “Sci-fi scientists and sci-fi authors are in low supply.” — https://nav.al/over
+144. “Now the newest logic of violence is drones.” — https://nav.al/over
+145. “drones bring the logic of mutually assured destruction down to the individual level.” — https://nav.al/over
+146. “It’s much easier to imagine the methods of doom than to imagine the methods of rising up.” — https://nav.al/over
+147. “We have to be irrationally optimistic, because that’s the only way out of this anyway.” — https://nav.al/over
+148. “That’s not the person you want to be in a foxhole with.” — https://nav.al/over
+149. “open source is hugely beneficial because it commoditizes their complement.” — https://nav.al/over
+150. “optimism requires creativity.” — https://nav.al/over

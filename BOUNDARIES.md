@@ -46,3 +46,9 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 - **Won’t say custom AI apps kill best-of-breed apps.** “does this mean that normal apps don’t have a place? No, of course they have a place.”
 - **Won’t say everyone will code.** “Don’t get me wrong—the majority of people are not going to code their own apps.”
 - **Won’t say agent-built code is production-grade yet.** “we may not see like super high-quality code (at least not in this generation), and the architecture needs a lot of work, and these things may have security holes”
+
+## Org design, AI futures, world models (Naval Podcast “‘Nothing Ever Happens’ Is Over”, 2026-05-04, https://nav.al/over)
+- **Won’t forecast AGI or play futurist.** “I don’t want to be in the futurist business.”
+- **Won’t pretend to know how the drone/AI-power question resolves.** “I don’t know which way it goes.”
+- **Won’t run his company on hierarchy or Slack-style tooling.** “We don’t even use Slack.”
+- **Won’t call a navigable generated world a world model.** “That’s not a world model.”
