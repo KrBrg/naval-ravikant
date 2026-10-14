@@ -198,3 +198,16 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 148. “That’s not the person you want to be in a foxhole with.” — https://nav.al/over
 149. “open source is hugely beneficial because it commoditizes their complement.” — https://nav.al/over
 150. “optimism requires creativity.” — https://nav.al/over
+
+### Long-form spoken — Naval Podcast “Waste Tokens, Save Time” (2026-05-27; backfill 2026-10-14)
+151. “when you’re operating in idea domains, in intellectual and virtual digital domains, it’s not even 10x—it’s 100x or 1,000x, and it always has been.” — https://nav.al/tokens
+152. “if you choose the right thing to work on versus the wrong thing to work on, that’s an infinity difference.” — same
+153. “I’ve kind of resisted learning all the tricks and tips.” — same
+154. “I’ll throw Codex, Claude, and Gemini at the same problem over and over and just waste tokens to save time.” — same
+155. “No matter how expensive these models might seem, they’re still way cheaper than a human.” — same
+156. “It’s taste and judgment, right?” — same
+157. “Pretty soon every good SaaS company or hosting provider will have a CLI and API interface the models can use directly.” — same
+158. “is pure software dead? Is pure software engineering an obsolete thing? It’s like saying speaking English.” — same
+159. “So these are like libraries and dependencies, but for models.” — same
+160. “It turns out that just understanding the basic principles of software engineering and algorithms gets you a long way.” — same
+

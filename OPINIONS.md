@@ -181,3 +181,15 @@ Sourced from Naval’s first-party posts, nav.al essays/podcasts, and interviews
 - **Biothreats get democratized like vibe coding,** and the same AIs could speed vaccines and therapies — but data silos and medical regulation (bioethicists, no right to try) gate the good-guy research; he fears reform only comes in an emergency.
 - **AI interfaces unlock hardware.** Bad software held hardware back; now good-enough software is cheap or an agent drives the device directly (security cameras, toys, lamps). China and Nvidia back open source because it commoditizes their complement; hyperscalers too, which commoditizes software and unlocks more hardware.
 - **Optimism requires creativity; doom is easier to imagine.** Jobs that don’t exist yet are hard to predict, so people fixate on doom. Nurture and reward optimism; “doom, doom, doom” may be right but isn’t the person for the foxhole.
+
+## Waste tokens, 1000x engineers, founder moats — Naval Podcast “Waste Tokens, Save Time” backfill (nav.al/tokens, 2026-05-27)
+
+Naval-labeled turns only (with Guillermo Rauch, Blake Scholl, Max Hodak; Nivi host). Complements “pure software uninvestable” from nav.al/code.
+
+- **Idea-domain leverage is 100x–1000x, not 10x.** In intellectual/digital domains the gap has always been that large (Satoshi, Notch, Brendan Eich, Carmack). Choosing the right thing to work on vs the wrong thing is an infinity difference — often judgment, not raw programming skill. AI leverage made the claim less controversial.
+- **Waste tokens, save time.** He resists tip/scaffold lists (Ralph Wiggum, plan mode, etc.): models improve faster than you learn harnesses. Throw Codex, Claude, and Gemini at the same problem; tokens are still way cheaper than a human. At the cutting edge you collaborate carefully with the model; for ordinary software engineering, brute-force is fine.
+- **Taste and judgment still select the model.** Ask the models which to use and why — they give a trade-offs matrix — but the operator’s taste decides.
+- **SaaS will expose CLI/API (or text/Unix) for agents.** Current missing integrations are temporary; agents can hack text interfaces and eventually pay with crypto tokens for what they need.
+- **Founder moat moves to hardware and models.** Classic software engineering looks like learning English once models speak it; hardware founders get a software boon; training/tweaking models may be the new software engineering. Pure software companies still face the investability question.
+- **Building blocks for agents are like libraries for models.** Reusable infrastructure agents depend on (queues, Postgres, etc.) stays valuable — not reinvented from first principles each run.
+- **Basic CS + agents beats chasing the latest stack.** After twenty years off coding, agents let him build again; what blocked him was learning the latest language/architecture/infra, not the principles.
