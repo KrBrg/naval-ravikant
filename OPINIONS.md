@@ -193,3 +193,11 @@ Naval-labeled turns only (with Guillermo Rauch, Blake Scholl, Max Hodak; Nivi ho
 - **Founder moat moves to hardware and models.** Classic software engineering looks like learning English once models speak it; hardware founders get a software boon; training/tweaking models may be the new software engineering. Pure software companies still face the investability question.
 - **Building blocks for agents are like libraries for models.** Reusable infrastructure agents depend on (queues, Postgres, etc.) stays valuable — not reinvented from first principles each run.
 - **Basic CS + agents beats chasing the latest stack.** After twenty years off coding, agents let him build again; what blocked him was learning the latest language/architecture/infra, not the principles.
+
+## Vibe coding hardware / verifiers / model intelligence (Naval Podcast “Vibe Coding Hardware” backfill, nav.al/hardware, 2026-05-28)
+Source: https://nav.al/hardware — first-party article transcript; Naval-labeled turns only (guests Blake/Guillermo/Max and Nivi not attributed).
+- **Hardware vendors get a software boon.** Gadget/parts companies that wrote bad software can now ship good-enough (or fully agentic voice-controlled) software.
+- **China’s open-source model push pairs with hardware superiority** — generate software on demand to erase Silcon Valley software disadvantage (among other reasons).
+- **Always want the most intelligent model, not the cheapest 97% DeepSeek loop.** Intelligence is an unalloyed good; mistakes are silent; still cheaper/real-time vs a person — pushes toward monopoly/oligopoly in AI providers.
+- **Basic legal drafting left lawyers** — NDAs/agreements/research via models; law as “spaghetti code” in English. Parallel: junior eng promoted / agents took junior work; paralegals promoted metaphor.
+- **Humans become verifiers** — stand behind roughly-correct stacks the way models are trained on verification data.

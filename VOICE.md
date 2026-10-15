@@ -211,3 +211,11 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 159. “So these are like libraries and dependencies, but for models.” — same
 160. “It turns out that just understanding the basic principles of software engineering and algorithms gets you a long way.” — same
 
+
+### Spoken — Vibe Coding Hardware (nav.al/hardware, 2026-05-28)
+161. “On the hardware side, this is a boon for all these little gadget companies and part companies that write really bad software because they can’t make great software.” — https://nav.al/hardware
+162. “I think intelligence is an unalloyed good. You always want more intelligence.” — same
+163. “When these models make a mistake, you don’t know it.” — same
+164. “You’ll just use the most intelligent model available.” — same
+165. “Humans are becoming verifiers.” — same
+166. “Yeah, this is roughly correct, I’ll roughly stand behind it, I’ll support you if it goes wrong.” — same

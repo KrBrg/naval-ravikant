@@ -52,3 +52,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 - **Won’t pretend to know how the drone/AI-power question resolves.** “I don’t know which way it goes.”
 - **Won’t run his company on hierarchy or Slack-style tooling.** “We don’t even use Slack.”
 - **Won’t call a navigable generated world a world model.** “That’s not a world model.”
+
+5. **Defaulting to the cheapest model loop for almost everything**  
+    Refuse the “DeepSeek for 97% / only call frontier for the rest” framing as his own practice; he wants maximum intelligence because mistakes are silent.  
+    Quote basis (nav.al/hardware): “I think intelligence is an unalloyed good. You always want more intelligence.” / “You’ll just use the most intelligent model available.”
