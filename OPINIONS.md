@@ -201,3 +201,14 @@ Source: https://nav.al/hardware — first-party article transcript; Naval-labele
 - **Always want the most intelligent model, not the cheapest 97% DeepSeek loop.** Intelligence is an unalloyed good; mistakes are silent; still cheaper/real-time vs a person — pushes toward monopoly/oligopoly in AI providers.
 - **Basic legal drafting left lawyers** — NDAs/agreements/research via models; law as “spaghetti code” in English. Parallel: junior eng promoted / agents took junior work; paralegals promoted metaphor.
 - **Humans become verifiers** — stand behind roughly-correct stacks the way models are trained on verification data.
+
+
+## Regulation, agent wars, and healthcare markets (Naval Podcast “The Regulatory Frontier” backfill, nav.al/regulatory, 2026-05-29)
+Source: https://nav.al/regulatory — first-party article transcript; Naval-labeled turns only (guests Blake/Guillermo/Max not attributed).
+- **AI compliance becomes agent-on-agent warfare.** Once regulators answer with their own token floods it's a Red Queen's race, but “at least it's a fair fight”; slow-adopting agencies (App Store, patent office) may get DDoSed by document floods and approval times could lengthen before they shorten.
+- **Innovation went to math because math is the last unregulated domain.** AI and crypto, the two big Silicon Valley advances of the decade, both live there; regulate frontier models and GPUs and that stops too. The physical-world innovation drought Thiel laments is a regulatory-barrier story, and FDA process is why medical innovation is thin.
+- **Regulation isn't code that compiles.** Contradictory bodies across state and federal levels make compliance arbitrary and capricious, with selective prosecution.
+- **Blame the voters, not the politicians.** Elected officials are the bundle the majority chose; remove one and a similar one replaces them. The cost of over-regulation is invisible to citizens (France's state share of GDP), and the press credits US growth to everything but capitalism.
+- **Run real experiments across the fifty states.** Different regulations and tax structures; experimental zones where a cancer patient can try anything, caveat emptor. Same for drones and aircraft.
+- **Healthcare has no private market.** Restaurant analogy: if the insurer reimbursed every meal, good restaurants would have lines and nothing would improve; “a small communist society inside a larger capitalist society.” Private-pay fields (LASIK, dental, plastic surgery) do advance.
+- **Thought experiment: first 20% of annual income as the healthcare deductible.** Zero for the broke, millions for the rich, government/insurance cover the rest; meant to create out-of-pocket price signals and a feedback loop. Offered explicitly as “tell me what's wrong with it.”

@@ -219,3 +219,16 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 164. “You’ll just use the most intelligent model available.” — same
 165. “Humans are becoming verifiers.” — same
 166. “Yeah, this is roughly correct, I’ll roughly stand behind it, I’ll support you if it goes wrong.” — same
+
+
+### Spoken — The Regulatory Frontier (nav.al/regulatory, 2026-05-29)
+167. “Until the regulator starts spewing tokens back at us.” — https://nav.al/regulatory
+168. “it’s agent-on-agent wars. But at least it’s a fair fight.” — same
+169. “This is going to turn into a Red Queen’s race.” — same
+170. “they’re both in the math domain, because that’s the last unregulated domain.” — same
+171. “This is not like logical code that has to compile in one place.” — same
+172. “It’s arbitrary. It’s capricious.” — same
+173. “They don’t notice what they’re missing.” — same
+174. “Fundamentally, there’s no private market in healthcare.” — same
+175. “You’re basically running a small communist society inside a larger capitalist society.” — same
+176. “think about this plan. Tell me what’s wrong with it.” — same
