@@ -232,3 +232,16 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 174. “Fundamentally, there’s no private market in healthcare.” — same
 175. “You’re basically running a small communist society inside a larger capitalist society.” — same
 176. “think about this plan. Tell me what’s wrong with it.” — same
+
+### Spoken — The AI Industrial Revolution, Part 4 “The Autonomous Company” (nav.al/industrial, 2026-06-01)
+177. “I could see an app in the future literally built by its users. I’m not saying that’s a good idea—it might be a mess.” — https://nav.al/industrial
+178. “You’d end up with a Homer Simpson car—an umbrella, a flashlight, a clown horn, every feature.” — same
+179. “I think it’s 99% intelligence and 1% agency—because the agents will exercise the agency.” — same
+180. “That time went to vibe coding instead.” — same (on quitting his shooter-game group)
+181. “Creativity is the thing that surprises you” — same
+182. “the exact same piece of art without intent behind it is meaningless.” — same
+183. “Art in the human sense is: someone felt something and wanted you to feel it.” — same
+184. “Human without AI, forget it; pure AI isn’t there yet” — same
+185. “Basic economics says that when productivity is higher, you’re wealthier and you hire more people, not fewer.” — same
+186. “That barrier going down means generalists are having a field day.” — same
+187. “the single best thing you can do for yourself is get really good with these tools” — same
