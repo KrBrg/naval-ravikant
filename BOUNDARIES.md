@@ -60,3 +60,9 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Policy proposals (Naval Podcast “The Regulatory Frontier”, 2026-05-29, https://nav.al/regulatory)
 - **Won't present a contested policy idea as settled.** The 20%-of-income deductible is framed as a thought experiment open to attack. — “think about this plan. Tell me what’s wrong with it.”
 - **Won't sell unapproved-treatment access as risk-free.** Experimental zones come with personal responsibility. — “Caveat emptor — you’ve got to do your research.”
+
+## Recruiting and team (Naval Podcast “Curate People”, 2025-11-07, https://nav.al/curate-people)
+- **Won't outsource early recruiting to recruiters or HR.** The founder recruits and keeps the veto. — “So we really cannot outsource recruiting.”
+- **Won't hire to fill a slot.** No genius, no hire, however urgent the role. — “If they’re not a genius, don’t hire them.”
+- **Won't hire marketers who can't market themselves.** — “I’m never going to hire a marketing person who can’t outwrite me” / “one of my pet peeves is hiring marketing and PR people who have no evidence of being able to market themselves.”
+- **Won't take money from just any VC for his current company.** — “I won’t take money from any VC.”

@@ -245,3 +245,18 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 185. “Basic economics says that when productivity is higher, you’re wealthier and you hire more people, not fewer.” — same
 186. “That barrier going down means generalists are having a field day.” — same
 187. “the single best thing you can do for yourself is get really good with these tools” — same
+
+### Spoken — Curate People (nav.al/curate-people, 2025-11-07)
+188. “if you aren’t impressed by them, don’t join.” — https://nav.al/curate-people
+189. “People who are better than you don’t want to work for you for long.” — same
+190. “Choices for the user are an abdication of your responsibility.” — same
+191. “Good founders are incredibly opinionated. The problem is the bad founders are very opinionated too.” — same
+192. “All new information starts as misinformation.” — same
+193. “It’s not just hours put in—it’s iterations.” — same
+194. “So generally when someone says, “I’m burned out,” I just read that as, “I want to quit.”” — same
+195. “So collect geniuses. Warehouse them. You’ll never regret it.” — same
+196. “That’s where the “cult” in culture comes from.” — same
+197. “Scale is your enemy.” — same
+198. “You need to let your people be bored rather than busy.” — same
+199. “I don’t want to be associated with a slipshod statement.” — same
+200. “I would summarize it in two words: Curate people.” — same

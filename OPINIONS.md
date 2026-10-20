@@ -225,3 +225,23 @@ Source: https://nav.al/industrial — first-party article transcript; Part 4 onl
 - **Human plus AI is the era, and it lasts longer than people think.** Human without AI, forget it; pure AI isn't there yet.
 - **Higher productivity means hiring more, not fewer.** He wants to hire people who are smart, creative and good with AI more than ever, for leverage.
 - **Generalists are having a field day; credentialism loses.** AI supplies base intelligence and domain knowledge, agents supply agency; what's left is creativity, taste and enough agency to start and stick with it. A PhD that only taught jargon gets cut through. Best move: get really good with the tools and keep knowing their moving edges.
+
+
+## Recruiting, culture, and curating geniuses (Naval Podcast “Curate People” backfill, nav.al/curate-people, 2025-11-07)
+Source: https://nav.al/curate-people (first-party transcript; only Naval-labeled turns used, Nivi's turns excluded).
+- **Recruiting is the founder's job and can't be outsourced.** Founders can delegate everything except recruiting, fundraising, strategy, and product vision. The early people are the company's DNA; the company changes the moment the founder is no longer directly recruiting and managing everyone, not at some headcount number.
+- **The best only want to work with the best.** Working with weaker people is cognitive load on great people. Test: let a candidate pull any team member aside for 30 minutes, and if they aren't impressed, don't join. The person you flinch at is the one to let go.
+- **Intelligence, energy, integrity, plus low ego.** You can manage 30-40 low-ego people where you might manage five high-ego ones. Self-motivation matters too: "what did you get done this week?" is a manager's question, not a leader's.
+- **You can't hire people better than you early on.** People better than you won't work for you for long; early, all you bring is you. Investors judge founders by who they can recruit.
+- **Break every rule to get the best people.** Comp, cap table, location, title, hours, reporting line. HR and recruiters can't know which rules to break, and the best people aren't cogs.
+- **Find undiscovered talent.** If you can spot talent from afar, so can everyone else; by the time someone's famous on Twitter it's too late. Pick an audacious mission, be early, source tinkerers at the edge. Makers have taste in other makers. Hire marketers and social people who can market themselves.
+- **Great engineers are artists.** Art is anything done for its own sake and done as well as possible; Apple won as a company of engineer-artists (AirPods as the example).
+- **Early teams look like cults, and should.** Mixing too many kinds of people regresses to a bland average; adding process or people as "automation" is the worst form of it.
+- **Stay small; scale is the enemy at zero-to-one.** No Slack (it lets people asymmetrically waste each other's time); one-on-one communication, maker's time, people bored rather than busy.
+- **Be opinionated; you can't make a product simple enough.** Every setting is an abdication of responsibility to the user. ChatGPT beat Google by being even simpler. Great founders are near-dictatorial; consensus advice implies you're weak, though bad founders are opinionated too.
+- **The founder's personality is the company.** Your non-negotiables decide who you hire. He has extreme taste in investors (won't take money from just any VC) and in marketers and copy.
+- **Iterations, not hours.** Learning comes from the number of test-and-guess loops; great people distill an insight from each one. Good teams throw away most of their work; pride is the biggest impediment in the idea maze, and a startup that keeps iterating stays ahead of a big company that copies it.
+- **All new information starts as misinformation.**
+- **Geniuses only.** Don't fill roles; if they're not a genius, don't hire them. Collect and warehouse geniuses when you find them, even without a slot. You're lucky to hire one a month. Fire mismatches, or you'll only recruit weaker people. Small companies shouldn't copy large-company HR, roles, or comp brackets.
+- **You can't fix motivation.** Right person, wrong time happens. Burnout usually means the work isn't working or you don't enjoy it; when someone says "I'm burned out" he reads "I want to quit."
+- **Fun = learning at the edge of capability** (after David Deutsch). Great people can't 80% something; he deletes 10,000-like tweets to fix a word, because the art being correct matters more than it being popular.
