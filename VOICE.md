@@ -260,3 +260,14 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 198. “You need to let your people be bored rather than busy.” — same
 199. “I don’t want to be associated with a slipshod statement.” — same
 200. “I would summarize it in two words: Curate people.” — same
+
+
+### Spoken — Find the Simplest Thing That Works (nav.al/simplest, 2025-10-02)
+201. “So a lot of product design is iterating on your own designs until you find the simple thing that works.” — https://nav.al/simplest
+202. “Eventually, you have to remove things to get them to scale” — same
+203. “You’re like, “Why does the requirement even exist?”” — same
+204. “It’s funny—everybody says “I’m a generalist,” which is their way of copping out on being a specialist.” — same
+205. “I would summarize that further and just say study physics.” — same
+206. “If you don’t have a physics background, don’t cry. I have a failed physics background.” — same
+207. “it is so unforgiving that it beats all the nice falsities out of you.” — same
+208. “The tinkerers are always at the edge of knowledge because they’re always using the latest tools and the latest parts to build the cool things.” — same

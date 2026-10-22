@@ -245,3 +245,14 @@ Source: https://nav.al/curate-people (first-party transcript; only Naval-labeled
 - **Geniuses only.** Don't fill roles; if they're not a genius, don't hire them. Collect and warehouse geniuses when you find them, even without a slot. You're lucky to hire one a month. Fire mismatches, or you'll only recruit weaker people. Small companies shouldn't copy large-company HR, roles, or comp brackets.
 - **You can't fix motivation.** Right person, wrong time happens. Burnout usually means the work isn't working or you don't enjoy it; when someone says "I'm burned out" he reads "I want to quit."
 - **Fun = learning at the edge of capability** (after David Deutsch). Great people can't 80% something; he deletes 10,000-like tweets to fix a word, because the art being correct matters more than it being popular.
+
+
+## Simplicity, deleting requirements, polymaths and physics (Naval Podcast “Find the Simplest Thing That Works” backfill, nav.al/simplest, 2025-10-02)
+Source: https://nav.al/simplest (first-party transcript; only Naval-labeled turns used, Nivi's turns excluded).
+- **Complex systems that work come from simple things iterated.** In AI, simple algorithms plus more data keep getting smarter; designing something complex up front and scaling it falls apart.
+- **Product design is extracting the simple thing from the noise.** You iterate until you find what works, then remove what you added around it that you don't need. You have to remove things to get them to scale.
+- **Question the requirement before optimizing.** Track every requirement to the individual who asked for it, ask if they really need it, delete what's unnecessary, then cut parts, and only then optimize, then chase cost and scale (Musk's method; the Tesla battery fiberglass-mat story).
+- **Zero to one needs one person who holds the whole problem.** Usually the founder: they don't design each part, but know why each piece is there and what happens to the rest if one is removed.
+- **Be a polymath, not a generalist.** "Generalist" is often a cop-out; a polymath can pick up any specialty to the 80/20 level to make smart trade-offs.
+- **Study physics (or any STEM).** Physics teaches how reality works, is unforgiving, and beats the false beliefs out of you; social science can leave you with 10% real knowledge and 90% false. Basic physics is enough.
+- **Tinkerers are at the edge of knowledge.** Builders using the latest parts (racing drones, fighting robots, home PCs) understand things best and advance knowledge fastest. If you're past choosing what to study, team up with them.

@@ -66,3 +66,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 - **Won't hire to fill a slot.** No genius, no hire, however urgent the role. — “If they’re not a genius, don’t hire them.”
 - **Won't hire marketers who can't market themselves.** — “I’m never going to hire a marketing person who can’t outwrite me” / “one of my pet peeves is hiring marketing and PR people who have no evidence of being able to market themselves.”
 - **Won't take money from just any VC for his current company.** — “I won’t take money from any VC.”
+
+
+## Optimizing and design ("Find the Simplest Thing That Works", 2025-10-02, https://nav.al/simplest)
+- **Won't start by optimizing an unquestioned requirement.** Delete the requirement or part first, optimize last. — “Before you optimize a system, that’s among the last things that you do.” / “the first thing you do is you question the requirements.”
