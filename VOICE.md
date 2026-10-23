@@ -271,3 +271,15 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 206. “If you don’t have a physics background, don’t cry. I have a failed physics background.” — same
 207. “it is so unforgiving that it beats all the nice falsities out of you.” — same
 208. “The tinkerers are always at the edge of knowledge because they’re always using the latest tools and the latest parts to build the cool things.” — same
+
+### Spoken — In the Arena (nav.al/in-the-arena, 2025-10-14)
+209. “Life is lived in the arena. You only learn by doing.” — https://nav.al/in-the-arena
+210. “And so if you want to learn, do.” — same
+211. “It’s not 10,000 hours, it’s 10,000 iterations. It’s not time spent. It’s learning loops.” — same
+212. “I don’t mean enjoy a little bit, you have to enjoy it a lot.” — same
+213. “So agency does work, but if you’re keeping track of the time period, you’re going to be disappointed.” — same
+214. “So just stop making excuses and get in the ring.” — same
+215. “Other people get to say you’re exceptional at something, and your mom doesn’t count.” — same
+216. “If you’re optimizing your company to end up on the cover of a magazine, or to win an industry award, you’re failing.” — same
+217. “It is impossible to fool Mother Nature.” — same
+218. “I can’t stand any of the philosophers you talked about. I don’t like Plato either.” — same
