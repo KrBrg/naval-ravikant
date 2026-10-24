@@ -272,3 +272,11 @@ Source: https://nav.al/simplest (first-party transcript; only Naval-labeled turn
 - **Acknowledge being good, without delusion.** Schopenhauer gave him permission to be himself; but others get to call you exceptional, not you (and your mom doesn't count).
 - **Reading:** can't stand most philosophers (including Plato); read Deutsch for epistemology, start there; the best authors respect the reader's time; dense works are fractal, you meet the knowledge at the level you're ready for.
 - **Good products are hard to vary** (Deutsch's good explanations applied to products: iPhone form factor, airplane wing, wind-tunnel cars).
+
+## Early LLMs, creativity, fiction — The Deutsch Files I backfill (nav.al/deutsch-files-i, 2024-01-11; with David Deutsch and Brett Hall; Naval-labeled turns only)
+Source: https://nav.al/deutsch-files-i (Naval mostly asks questions here; only his own stated views are listed, not Deutsch's answers).
+- **Early ChatGPT extrapolates, it doesn't synthesize.** In fields he knows well it adds verbiage without adding information, and when asked to summarize it keeps and drops the wrong things. Synthesis needs understanding of what's core versus superfluous.
+- **A drudgery remover, not AGI.** It frees people to be creative. He's skeptical of the Silicon Valley "5-10 years to AGI, then ASI" framing, calling parts of it off axis.
+- **Creativity isn't remixing.** Pushes back on the Jobs-style "creativity is mixing things together" paradigm: humans make narrow, risky leaps while ruling out huge swaths of the search space at once.
+- **Information cascades.** People play with ideology until it gets serious; then the people at the top change their minds and most follow them as a proxy.
+- **Fiction picks.** Ted Chiang's "Understand" is his favorite of Chiang's stories ("Story of Your Life" among his least favorite); Borges plays games with time and infinity, is genre-less, and his stories are short, which is a virtue.

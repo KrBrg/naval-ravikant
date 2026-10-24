@@ -283,3 +283,12 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 216. “If you’re optimizing your company to end up on the cover of a magazine, or to win an industry award, you’re failing.” — same
 217. “It is impossible to fool Mother Nature.” — same
 218. “I can’t stand any of the philosophers you talked about. I don’t like Plato either.” — same
+
+### Spoken — The Deutsch Files I (nav.al/deutsch-files-i, 2024-01-11; Naval-labeled turns only)
+219. “in areas that I know well, it actually just adds a lot of verbiage. And doesn’t actually add any information.” — https://nav.al/deutsch-files-i
+220. “I find it better at extrapolation than synthesis.” — same
+221. “adding words is easy, but synthesizing, reducing, coming to the core of it, I think, is very difficult. Because it requires understanding.” — same
+222. “It’ll free people up to be creative. It’s a tool for removing drudgery. It’s not an AGI.” — same
+223. “humans do make creative leaps, but they seem to eliminate large swaths of potential conjectures from consideration immediately.” — same
+224. “Borges is genre-less.” / “They’re short. That’s a virtue.” — same
+225. “people have a tendency to play around with ideology until things become serious.” — same
