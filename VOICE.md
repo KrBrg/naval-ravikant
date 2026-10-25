@@ -292,3 +292,11 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 223. “humans do make creative leaps, but they seem to eliminate large swaths of potential conjectures from consideration immediately.” — same
 224. “Borges is genre-less.” / “They’re short. That’s a virtue.” — same
 225. “people have a tendency to play around with ideology until things become serious.” — same
+
+### Spoken — The Deutsch Files II (nav.al/deutsch-files-ii, 2024-01-26; Naval-labeled turns only)
+226. “They don’t have their own problems. The problem is imposed from the outside.” — https://nav.al/deutsch-files-ii
+227. “instead of monkeys with typewriters, now it’s monkeys with calculators. It’s still an impossibility.” — same
+228. “And because we’re universal explainers, anything that can be explained, we can explain. Anything that can be created, we can create. Well, I’m optimistic.” — same
+229. “the appeal of anthrocentrism, where we’re at the center of everything, is so strong that it sort of re-emerges now under the guise of the observer.” — same
+230. “So there had to be a problem. The problem required a solution. The solution was arrived at creatively.” — same
+231. “we don’t understand consciousness, we don’t understand creativity, we understand maybe how knowledge grows, but we don’t understand where it comes from.” — same

@@ -280,3 +280,15 @@ Source: https://nav.al/deutsch-files-i (Naval mostly asks questions here; only h
 - **Creativity isn't remixing.** Pushes back on the Jobs-style "creativity is mixing things together" paradigm: humans make narrow, risky leaps while ruling out huge swaths of the search space at once.
 - **Information cascades.** People play with ideology until it gets serious; then the people at the top change their minds and most follow them as a proxy.
 - **Fiction picks.** Ted Chiang's "Understand" is his favorite of Chiang's stories ("Story of Your Life" among his least favorite); Borges plays games with time and infinity, is genre-less, and his stories are short, which is a virtue.
+
+## Problems, knowledge, wealth and optimism — The Deutsch Files II backfill (nav.al/deutsch-files-ii, 2024-01-26; with David Deutsch and Brett Hall; Naval-labeled turns only)
+Source: https://nav.al/deutsch-files-ii (Naval mostly asks questions here; only his own stated views and restatements he puts in his own words are listed, not Deutsch's answers).
+- **Tools don't have their own problems.** An AI system's problem is imposed from outside; it's an instrument pointed at one narrow problem. Creative knowledge comes from an entity that has the problem itself: no problem, no solution, no new knowledge.
+- **Knowledge is causal.** A problem needs a solution, the solution is reached creatively, and the resulting knowledge is a real thing that replicates itself into the world (GPS satellites, rockets), and in the multiverse framing forms a kind of crystal structure of knowledge.
+- **Brute force won't find relativity.** Giving tools to blind search is "monkeys with calculators" instead of monkeys with typewriters; the combinatorics make it an impossibility.
+- **Wealth follows from the right problems.** Knowledge plus physical assets cause transformations; with the right problems and solutions an entity grows wealth, and the creative leaps along the way grow knowledge, which grows more wealth.
+- **Optimism from universality.** Inanimate nature has little diversity of knowledge and evolution grows it slowly; humans create knowledge far faster, and as universal explainers anything that can be explained, we can explain. We're at the beginning of an infinity of knowledge, so he's optimistic.
+- **Motivated measurement.** If you want to believe something and drop your skepticism about the measurement (the room-temperature superconductor hunt), you can get almost any non-replicable result.
+- **Anthropocentrism keeps sneaking back,** now dressed up as "the observer" in quantum interpretations.
+- **Open problems.** We don't understand consciousness or creativity; we may understand how knowledge grows but not where it comes from.
+- **Levels of explanation.** Some theories only emerge at higher levels (thermodynamics isn't visible in one molecule) and are valid at their own level; "it's all particle collisions" doesn't explain a murder. Good explanations should be relatively timeless rather than tied to initial conditions and the "t" variable.
