@@ -300,3 +300,11 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 229. “the appeal of anthrocentrism, where we’re at the center of everything, is so strong that it sort of re-emerges now under the guise of the observer.” — same
 230. “So there had to be a problem. The problem required a solution. The solution was arrived at creatively.” — same
 231. “we don’t understand consciousness, we don’t understand creativity, we understand maybe how knowledge grows, but we don’t understand where it comes from.” — same
+
+### Spoken — The Deutsch Files III (nav.al/deutsch-files-iii, 2024-02-17; Naval-labeled turns only)
+232. “true creativity is not from observation. It’s not from induction. It’s not from some algorithm that we know yet how to run, and it’s not just mixing things together.” — https://nav.al/deutsch-files-iii
+233. “as long as you have room for creativity, you have room for free-will.” — same
+234. “the biological system is a highly focused analog computer that’s running sort of a single algorithm. And the virtual system in our head is more like a digital programmable computer.” — same
+235. “Or at least my objections, maybe I’m just calling myself sophisticated.” — same
+236. “I was always buried in random useless magazines and books and whatever happened to be lying around.” — same
+237. “the moment you make a group, then the group has to have agreements to stick together, and so group cohesiveness becomes the overriding phenomenon, rather than looking for truth.” — same

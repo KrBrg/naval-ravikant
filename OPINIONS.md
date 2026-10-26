@@ -292,3 +292,12 @@ Source: https://nav.al/deutsch-files-ii (Naval mostly asks questions here; only 
 - **Anthropocentrism keeps sneaking back,** now dressed up as "the observer" in quantum interpretations.
 - **Open problems.** We don't understand consciousness or creativity; we may understand how knowledge grows but not where it comes from.
 - **Levels of explanation.** Some theories only emerge at higher levels (thermodynamics isn't visible in one molecule) and are valid at their own level; "it's all particle collisions" doesn't explain a murder. Good explanations should be relatively timeless rather than tied to initial conditions and the "t" variable.
+
+## Creativity, children, groups and the mystery of existence — The Deutsch Files III backfill (nav.al/deutsch-files-iii, 2024-02-17; with David Deutsch and Brett Hall; Naval-labeled turns only)
+- **Creativity isn't observation, induction, a known algorithm, or recombination.** He wants to put the recombination idea to bed for good, and blames its staying power partly on Steve Jobs's "mixing things together" line on posters. As long as there's room for creativity, there's room for free will.
+- **Human guesses leap; evolution crawls.** Explanatory guesses can jump across the whole idea space and connect any two ideas without being implemented in the world first. Biology is a highly focused analog computer running one algorithm; the mind is a digital programmable computer.
+- **The untapped intelligence is in children.** We chase AGI while most kids are coerced through life and not allowed to be as creative as they could be (Taking Children Seriously; closer to unschooling than homeschooling).
+- **But he tests it with the hard objections.** Irreversible actions (fentanyl, pregnancy, crime) and early-learning windows for math, music and language: isn't there a case that the average child should learn fundamentals early so they're free to explore later? He also asks how universal-explainer optimism squares with twin studies.
+- **He was the kid buried in books.** Harassed to go outside, reading random magazines in the dark with a horrible diet.
+- **Free thinking is individual; groups optimize for cohesion.** Once there's a named group, it needs a central dogma and agreements to stick together, and cohesion overrides looking for truth. He and Brett were uncomfortable joining any group with a name, even of lovely people.
+- **Existence itself is the central mystery,** and the question he brings to Deutsch is how science, spirituality and consciousness-first views meet there.
