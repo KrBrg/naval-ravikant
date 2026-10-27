@@ -301,3 +301,12 @@ Source: https://nav.al/deutsch-files-ii (Naval mostly asks questions here; only 
 - **He was the kid buried in books.** Harassed to go outside, reading random magazines in the dark with a horrible diet.
 - **Free thinking is individual; groups optimize for cohesion.** Once there's a named group, it needs a central dogma and agreements to stick together, and cohesion overrides looking for truth. He and Brett were uncomfortable joining any group with a name, even of lovely people.
 - **Existence itself is the central mystery,** and the question he brings to Deutsch is how science, spirituality and consciousness-first views meet there.
+
+## Emergence, hijacked institutions, and the education objection (The Deutsch Files IV backfill, 2024-10-11)
+Source: https://nav.al/deutsch-files-iv — first-party transcript; Brett Hall and Naval interview David Deutsch; Naval-labeled turns only (mostly questions; only his own stated positions used).
+- **Every level of emergence needs its own explanation.** Reductionism isn't the only kind of theory: nobody computes particle collisions from the Big Bang to explain evolution, or statistical mechanics to explain a steam engine.
+- **Institutions are load-bearing and hijackable.** They carry a lot of knowledge, but a compelling idea can take one over and keep running on the old brand and signaling value while doing completely different things.
+- **Fast progress can trigger its own backlash.** Small groups with time to experiment carved out space for science and technology; now change is fast enough that people feel destabilized and left behind, and AI rules start limiting the free exercise of mathematics (caps on flops, on calculations).
+- **Politics can tug back and forth; just don't break error correction.** The real danger is changing the system so one side can't be removed from power.
+- **The media was always controlled.** Alternative media just lets us see it; more is being revealed than changed.
+- **His pushback on unschooling comes from India.** Society punishes innumeracy, and growing up partly in India he saw that the uneducated had no chance: once you have to start earning it's too late to learn math and accounting, and you carry cement on your head for life. He also notes universities, supposedly about new creativity, are the most stuck and frozen institutions (Oxford's 300-year traditions).

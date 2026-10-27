@@ -308,3 +308,10 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 235. “Or at least my objections, maybe I’m just calling myself sophisticated.” — same
 236. “I was always buried in random useless magazines and books and whatever happened to be lying around.” — same
 237. “the moment you make a group, then the group has to have agreements to stick together, and so group cohesiveness becomes the overriding phenomenon, rather than looking for truth.” — same
+
+### Spoken — The Deutsch Files IV (nav.al/deutsch-files-iv, 2024-10-11; Naval-labeled turns only)
+238. “At every level of emergence, there is a possibility for an explanation that explains that level. And you need that explanation.” — https://nav.al/deutsch-files-iv
+239. “You can’t have that many flops. You can’t run that operation. You can’t do that calculation even.” — same
+240. “I think the media has always been controlled. It’s just now we have alternative media so we can see that more clearly. So, more is being revealed than being changed.” — same
+241. “Now I’m just going to have to carry a bucket full of cement on my head for the rest of my life.” — same
+242. “I look forward to the indigenous electric motor.” — same
