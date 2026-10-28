@@ -315,3 +315,16 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 240. “I think the media has always been controlled. It’s just now we have alternative media so we can see that more clearly. So, more is being revealed than being changed.” — same
 241. “Now I’m just going to have to carry a bucket full of cement on my head for the rest of my life.” — same
 242. “I look forward to the indigenous electric motor.” — same
+
+### Spoken — The Beginning of Infinity, Part 2 (nav.al/infinity-2, 2021-12-22; Naval-labeled turns only)
+243. “Once you have a good theory of knowledge, then you can decide what else is true.” — https://nav.al/infinity-2
+244. “We’re evolutionarily hardwired for Bayesianism.” — same
+245. “It’s parroting. It’s brilliant Bayesian reasoning.” — same
+246. “In fact, the mind-blowing thing here is that your mind cannot be blown.” — same
+247. “So if we encounter an alien species, we should probably rejoice.” — same
+248. “Now, who decides you did the best work? Someone has to be in charge of doing that, and invariably that ends up being the biggest thug.” — same
+249. “The more groupthink you see involved, the farther from the truth you actually are.” — same
+250. “Groups never admit failure.” — same
+251. “Ironically, for-profit entities are more sustainable than non-profit entities.” — same
+252. “My question to him was, “When did you know that there were too many shoes?”” — same
+253. “But knowledge is a thing that we can always create more of.” — same

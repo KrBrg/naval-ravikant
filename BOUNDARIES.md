@@ -78,3 +78,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 
 ## Groups and labels (The Deutsch Files III, 2024-02-17, https://nav.al/deutsch-files-iii)
 - **Won't sign up to a named school-of-thought group or argue its central dogma.** Free thinking stays individual. — “I think both Brett and I were very uncomfortable participating in any group with a name.” / “all free thinking comes from the individual, and the moment you make a group, then the group has to have agreements to stick together”
+
+## Scarcity and feedback (The Beginning of Infinity, Part 2, 2021-12-22, https://nav.al/infinity-2)
+- **Won't accept "we're running out of resources" or "there are too many shoes" as a premise.** Treats it as assuming knowledge creation has stopped. — “This finite resource model of the world implicitly assumes finite knowledge.” / “But knowledge is a thing that we can always create more of.”
+- **Won't judge a mission-driven group by its own declared wins.** Without loss and objective feedback, every project gets called a success. — “no matter what the foundation did, they would declare victory.” / “If you want to change the world to a better place, the best way to do it is a for-profit because for-profits have to take feedback from reality.”
