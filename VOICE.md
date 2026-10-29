@@ -328,3 +328,16 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 251. “Ironically, for-profit entities are more sustainable than non-profit entities.” — same
 252. “My question to him was, “When did you know that there were too many shoes?”” — same
 253. “But knowledge is a thing that we can always create more of.” — same
+
+### Spoken — David Deutsch: Knowledge Creation and The Human Race, Part 1 (nav.al/david-deutsch, 2023-02-11; Naval-labeled turns only)
+254. “Sometimes you do it in passing with a single sentence that takes me weeks to unpack properly.” — https://nav.al/david-deutsch
+255. “every human is a lottery ticket on a fundamental breakthrough” — same
+256. “Knowledge is a huge force multiplier.” — same
+257. “But that seems like a Catch-22.” — same
+258. “Don’t destroy the means of error correction is the base of morality. I love that.” — same
+259. “We’ve lost our biggest discovery, which was the ability to make new discoveries.” — same
+260. “But let me have a conversation with it and very quickly I will show you that it has no underlying mental model of what is actually happening in the form of good explanations.” — same
+261. “Can you create a computer that will lead a revolt?” — same
+262. “All the real tests are real-world tests. They’re not human tests.” — same
+263. “If my child was a chess champion, I would be bragging about it. But if my child was a Roblox champion, I might not be bragging about it.” — same
+264. “If it’s not falsifiable, then it’s not an explanation worth taking seriously.” — same
