@@ -341,3 +341,17 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 262. “All the real tests are real-world tests. They’re not human tests.” — same
 263. “If my child was a chess champion, I would be bragging about it. But if my child was a Roblox champion, I might not be bragging about it.” — same
 264. “If it’s not falsifiable, then it’s not an explanation worth taking seriously.” — same
+
+### Spoken — David Deutsch: Knowledge Creation and The Human Race, Part 2 (nav.al/david-deutsch-2, 2023-08-11; Naval-labeled turns only)
+265. “Rather, everything is a theory-laden guess.” — https://nav.al/david-deutsch-2
+266. “Let’s start making some guesses.” — same
+267. “The artists think they’re being creative, and they’re guessing.” — same
+268. “It’s very rare to have two rival good explanations.” — same
+269. “So it refutes itself.” — same
+270. “it’s been obsoleted—but that doesn’t mean it was wrong. It was a necessary stepping stone.” — same
+271. “the more feedback that you take from other people, the more likely you are to go astray” — same
+272. “The rockets don’t have to fly, so to speak.” — same
+273. “So eliminating misinformation a priori is impossible because knowledge a priori is impossible.” — same
+274. “Knowledge is a thing that causes itself to be replicated in the environment.” — same
+275. “No shortcuts.” — same
+276. “It’s always contextual, which gives an infinity of improvement ahead of us which keeps life interesting.” — same

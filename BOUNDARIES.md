@@ -86,3 +86,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Claims taken on authority (David Deutsch Part 1, 2023-02-11, https://nav.al/david-deutsch)
 - **Won't accept "AGI is here" on someone's authority or a definitional checkbox.** Asks for real-world effects instead. — “Again, that’s social confirmation.” / “All the real tests are real-world tests. They’re not human tests.” / “If actual AGI existed, its effects upon reality would be unmistakable and impossible to hide”
 - **Won't take an explanation seriously if it can't be criticized.** — “If it’s not falsifiable, then it’s not an explanation worth taking seriously.” / “That’s also immunizing itself to criticism.”
+
+## Misinformation and social feedback (David Deutsch Part 2, 2023-08-11, https://nav.al/david-deutsch-2)
+- **Won't back suppressing "misinformation," least of all in Popper's name.** Insists on debate and rival theories instead. — “When nothing could be more the opposite of Popper, which is: you have to have debate, have rival opposing theories, have a system for removing bad rulers and reversing bad decisions.” / “So eliminating misinformation a priori is impossible because knowledge a priori is impossible.”
+- **Won't treat peer approval as a substitute for reality's test.** — “the more feedback that you take from other people, the more likely you are to go astray; whereas the more feedback you take from reality and nature, the closer you are to the truth.” / “The rockets don’t have to fly, so to speak.”
