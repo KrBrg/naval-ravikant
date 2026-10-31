@@ -355,3 +355,21 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 274. “Knowledge is a thing that causes itself to be replicated in the environment.” — same
 275. “No shortcuts.” — same
 276. “It’s always contextual, which gives an infinity of improvement ahead of us which keeps life interesting.” — same
+
+### Spoken — Vitalik: Ethereum, Part 1 (nav.al/vitalik, 2022-04-08; Naval-labeled turns only)
+277. “Smart contracts are castles made of math, freely trading with each other. Castles are impregnable.” — https://nav.al/vitalik
+278. “This is a mind-blowingly crazy concept.” — same
+279. “They don’t care about decentralization until the bogeyman shows up and starts stomping them out of existence.” — same
+280. “Even in decentralized finance, a lot of these are decentralized in name only.” — same
+281. “People don’t value privacy until somebody goes to jail over it, and then they’re like, “Oh wait, I want privacy.”” — same
+282. “I feel dirty just talking about that chain.” — same
+283. “Now you have to be your own bank if you really want to be a crypto-head. It’s scary.” — same
+284. “If you’re building Wall Street, you want rule of law.” — same
+285. “My personal view is that Eth got saved.” — same
+286. “I got in trouble for saying this in 2017, but I still stand by it: There’s a free-rider effect on blockchains.” — same
+287. “I wonder if it’s just as simple as incentives.” — same
+288. “the highest value application is just money.” — same
+
+### Short posts and replies — X (2026-10-30/31)
+289. “Children are how parents measure the passage of time.” — https://x.com/naval/status/2116330183049543768
+290. “Support. Reasonable proposal - $50M is more than enough for community grants.” — https://x.com/naval/status/2116191471930102246

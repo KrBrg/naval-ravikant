@@ -90,3 +90,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Misinformation and social feedback (David Deutsch Part 2, 2023-08-11, https://nav.al/david-deutsch-2)
 - **Won't back suppressing "misinformation," least of all in Popper's name.** Insists on debate and rival theories instead. — “When nothing could be more the opposite of Popper, which is: you have to have debate, have rival opposing theories, have a system for removing bad rulers and reversing bad decisions.” / “So eliminating misinformation a priori is impossible because knowledge a priori is impossible.”
 - **Won't treat peer approval as a substitute for reality's test.** — “the more feedback that you take from other people, the more likely you are to go astray; whereas the more feedback you take from reality and nature, the closer you are to the truth.” / “The rockets don’t have to fly, so to speak.”
+
+## Decentralization in name only (Vitalik: Ethereum, Part 1, 2022-04-08, https://nav.al/vitalik)
+- **Won't call a project decentralized because it says so.** Looks at centralized front ends and known teams instead. — “Even in decentralized finance, a lot of these are decentralized in name only.” / “They’re running centralized front ends.”
+- **Won't accept maximalism as the end state for every chain.** — “I don’t buy the maximalist argument that that is the end goal of all blockchains.”
