@@ -373,3 +373,20 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 ### Short posts and replies — X (2026-10-30/31)
 289. “Children are how parents measure the passage of time.” — https://x.com/naval/status/2116330183049543768
 290. “Support. Reasonable proposal - $50M is more than enough for community grants.” — https://x.com/naval/status/2116191471930102246
+
+### Spoken — Vitalik: Ethereum, Part 2 (nav.al/vitalik-2, 2022-04-14; Naval-labeled turns only)
+291. “Greed is always done in your own name, and nobody wants to do it in their own name.” — https://nav.al/vitalik-2
+292. “Fear is always done in everybody else’s name. So you end up with a whole bunch of self-styled white knights battling each other.” — same
+293. “Look, Bitcoin is trying to be a certain thing. I do think Bitcoin is incredibly valuable. It is the OG.” — same
+294. “It does fall short in two ways. One is it’s not programmable, and the second is it’s not private.” — same
+295. “The level of decentralization is so low, they just stick their name in it.” — same
+296. “Blockchains are a fundamental shift into a new form of computing.” — same
+297. “It was just a nonsense comparison. It was apples and oranges. You’re comparing an airplane to a car.” — same
+298. “Yet he wrote pages and pages of this like only a Berkeley professor could.” — same
+299. “I do think Zooko set the tone for how you build a community with a smile.” — same
+300. “Don’t live life on autopilot.” — same
+301. “compound interest is a functional number of iterations, not time” — same
+302. “And honestly, for someone like you, politics is a waste of time.” — same
+
+### Short posts and replies — X (2026-11-01)
+303. “We could have an interregnum between bulk air travel (today) and personal air travel (4-passenger drones). International may be especially difficult.” — https://x.com/naval/status/2116703263840227546

@@ -94,3 +94,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Decentralization in name only (Vitalik: Ethereum, Part 1, 2022-04-08, https://nav.al/vitalik)
 - **Won't call a project decentralized because it says so.** Looks at centralized front ends and known teams instead. — “Even in decentralized finance, a lot of these are decentralized in name only.” / “They’re running centralized front ends.”
 - **Won't accept maximalism as the end state for every chain.** — “I don’t buy the maximalist argument that that is the end goal of all blockchains.”
+
+## Apples-to-oranges attacks and one-chain-for-everything (Vitalik: Ethereum, Part 2, 2022-04-14, https://nav.al/vitalik-2)
+- **Won't accept raw-throughput comparisons as a case against blockchains.** — “It was just a nonsense comparison. It was apples and oranges.” / “Blockchains are a fundamental shift into a new form of computing.”
+- **Won't treat Bitcoin's importance as proof it must be the whole ecosystem.** — “So it occupies a very important part in the ecosystem—probably the most important part—but it doesn’t mean that that’s the entire thing.”

@@ -358,3 +358,14 @@ Source: https://nav.al/vitalik (nav.al transcript; Naval-labeled turns only; Vit
 - **Against maximalism, and the free-rider problem.** Bitcoin barely innovates by design; he thinks Eth "got saved" by its ecosystem and rejects the maximalist view that digital gold is every chain's end goal. Since 2017 he's argued blockchains have a free-rider effect: forking beats building on someone else's chain, and developers aren't rewarded.
 - **Innovation follows incentives.** Layer 1 has been slowest while Layer 2, roll-ups and ERC-20 move fast; he suspects it's as simple as incentives.
 - **Many stores of value.** The biggest stores of value are productive assets (factories, stocks, real estate), not Bitcoin or gold; dozens of viable coins is true decentralization. He sees a built-in tension between welcoming new users and preserving value for existing holders.
+
+## Fear-driven politics, Bitcoin as the OG with two gaps, a proliferation of chains, building with a smile, and life off autopilot (Vitalik: Ethereum, Part 2 backfill, 2022-04-14, https://nav.al/vitalik-2)
+Source: nav.al transcript, with Haseeb Qureshi and Vitalik Buterin. Naval-labeled turns only. Crypto views are dated 2022. Plus X 2026-11-01.
+- **Fear drives the big political moves.** Covid lockdowns, the Patriot Act and wars are justified by fear. Greed is done in your own name; fear is done in everybody else's name, so you get self-styled white knights battling each other.
+- **Bitcoin is the OG, with two gaps.** It is incredibly valuable and probably the most important part of the ecosystem, but it isn't programmable and isn't private, and neither can be fixed without severe trade-offs. It doesn't have to be the entire thing.
+- **Expect a proliferation of blockchains.** The incentives are too strong, and chains make different trade-offs between decentralization, security and programmability. Some barely-decentralized chains just serve people who care more about cost and performance.
+- **Blockchains are a new form of computing.** Comparing their throughput to a Raspberry Pi is apples and oranges, like comparing an airplane to a car.
+- **Build community with a smile.** Founders who operate in public need good nature (Zooko set that tone); the Bitcoin maxis dominate and the community could learn from it.
+- **Don't live life on autopilot.** Compound interest is a function of the number of iterations, not time, so improving every week compounds; great builders can have multi-act careers.
+- **For a builder, politics is a waste of time.** You engage only as much as coordination needs, then recruit and finance a great team to build the next thing.
+- **Drones and air travel (X, 2026-11-01).** There could be an interregnum between today's bulk air travel and personal air travel in 4-passenger drones, with international travel especially hard (replying while quote-posting his 2019 call that small, ubiquitous drones would end commercial air travel as we know it).
