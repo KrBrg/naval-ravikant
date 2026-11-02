@@ -390,3 +390,19 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 
 ### Short posts and replies — X (2026-11-01)
 303. “We could have an interregnum between bulk air travel (today) and personal air travel (4-passenger drones). International may be especially difficult.” — https://x.com/naval/status/2116703263840227546
+
+### Spoken — The Beginning of Infinity, Part 1 (nav.al/infinity, 2021-07-02; Naval-labeled turns only)
+304. “I’m a failed physicist, in the sense that I loved physics, I wanted to pursue it, but I never felt I was going to be great at it.” — https://nav.al/infinity
+305. “All of my real heroes are scientists, because I believe science is the engine that pulls humanity forward.” — same
+306. “As I get older, I find myself incapable of having an attention span for anything that isn’t steeped in the truth.” — same
+307. “people respect science, but they don’t understand what science is.” — same
+308. “Most mental models aren’t worth reading or thinking about or listening to because they’re trivial.” — same
+309. “In other words, figure it out yourself. That’s the only way to know anything.” — same
+310. “And I felt like the stupidest person in college.” — same
+311. “If you could predict it, you would have invented it already.” — same
+312. “If you take away nothing else, try and understand what a good explanation is.” — same
+313. “The turkey thinks that it lives in a benevolent household—until Thanksgiving arrives.” — same
+314. “Your best theories are going to be creative guesses, not simple extrapolations.” — same
+315. “There is no settled science, there is no settled mathematics.” — same
+316. “The only way out is through progress.” — same
+317. “People who get paid to operate in the real world tend to be optimistic. People who operate in ivory towers are incentivized to be pessimists.” — same

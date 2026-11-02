@@ -369,3 +369,16 @@ Source: nav.al transcript, with Haseeb Qureshi and Vitalik Buterin. Naval-labele
 - **Don't live life on autopilot.** Compound interest is a function of the number of iterations, not time, so improving every week compounds; great builders can have multi-act careers.
 - **For a builder, politics is a waste of time.** You engage only as much as coordination needs, then recruit and finance a great team to build the next thing.
 - **Drones and air travel (X, 2026-11-01).** There could be an interregnum between today's bulk air travel and personal air travel in 4-passenger drones, with international travel especially hard (replying while quote-posting his 2019 call that small, ubiquitous drones would end commercial air travel as we know it).
+
+## Science as truth-seeking, good explanations over induction, no settled science, and who gets paid to be pessimistic (The Beginning of Infinity, Part 1 backfill, 2021-07-02, https://nav.al/infinity)
+Source: nav.al transcript, with Brett Hall. Naval-labeled turns only; Brett's explanations of Deutsch are not attributed to Naval.
+- **Science pulls humanity forward.** A self-described failed physicist, he says all his real heroes are scientists, and science is the study of truth.
+- **"Believe in science" is an oxymoron.** People respect science without understanding what it is, and the idea of science gets hijacked by people who want to steer what you think.
+- **Nullius in verba.** Take no one's word for it; figure it out yourself. Most "mental models" are trivial; The Beginning of Infinity is one of the few books in a decade that made him smarter.
+- **Reread the best books until you understand them.** In science he is only rereading The Beginning of Infinity and The Fabric of Reality until he understands them fully.
+- **Learn what a good explanation is.** We navigate life by creating good explanations: hard to vary, testable, making risky predictions (Eddington's eclipse test of relativity; seasons from axis tilt versus the Persephone myth).
+- **Induction doesn't create new knowledge.** Science, invention and evolution all work by bold guesses and weeding out what fails; the Thanksgiving turkey shows the limits of extrapolation. Bayesian updating works in constrained spaces (Monty Hall) but doesn't discover new explanations.
+- **There is no settled science or settled mathematics.** Following Taleb and Chaitin: work with the best explanation you have, knowing it can be replaced; mathematics stays open to creativity.
+- **Even the best get stuck behind.** Science advances one funeral at a time; even Buffett and Munger can't wrap their minds around crypto. Take every good-faith idea seriously.
+- **Pessimism is straight-line extrapolation.** If you could predict it, you would have invented it already; imminent-AGI theories are naive extrapolations of compute. He regrets recording a doomsayer podcast more than any other: the only way out is through progress.
+- **Feedback source decides optimism.** Entrepreneurs get feedback from nature and free markets and are rewarded for optimism; professions that get feedback from their own members get corrupted, and ivory towers reward pessimism.

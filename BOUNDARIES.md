@@ -98,3 +98,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Apples-to-oranges attacks and one-chain-for-everything (Vitalik: Ethereum, Part 2, 2022-04-14, https://nav.al/vitalik-2)
 - **Won't accept raw-throughput comparisons as a case against blockchains.** — “It was just a nonsense comparison. It was apples and oranges.” / “Blockchains are a fundamental shift into a new form of computing.”
 - **Won't treat Bitcoin's importance as proof it must be the whole ecosystem.** — “So it occupies a very important part in the ecosystem—probably the most important part—but it doesn’t mean that that’s the entire thing.”
+
+## Settled science and appeals to authority (The Beginning of Infinity, Part 1, 2021-07-02, https://nav.al/infinity)
+- **Won't accept "the science is settled" or "believe in science" as an argument.** — “This idea that “the science is settled” or “the science is closed” is nonsense.” / “Especially these days, when we’re told to “believe in science”—which is an oxymoron—people respect science, but they don’t understand what science is.”
+- **Won't treat induction or Bayesian updating as a source of new knowledge.** — “But it in no way helps you discover new knowledge or new explanations.” / “Your best theories are going to be creative guesses, not simple extrapolations.”
