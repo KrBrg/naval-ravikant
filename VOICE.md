@@ -406,3 +406,16 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 315. “There is no settled science, there is no settled mathematics.” — same
 316. “The only way out is through progress.” — same
 317. “People who get paid to operate in the real world tend to be optimistic. People who operate in ivory towers are incentivized to be pessimists.” — same
+318. “In that sense, all failures and all sins are just ignorance. It’s just the lack of knowledge.” — https://nav.al/matt-ridley-2
+319. “This treats earth as a zero-sum game. But upon closer examination, it falls apart.” — same
+320. “We’re the only creatures that cooperate across genetic boundaries and do long-range planning with each other.” — same
+321. “The economy is far too big for any one individual to understand.” — same
+322. “Unfortunately in 2020, the economists are building epidemic models and the epidemiologists are running the economy, so we’ve got it backwards.” — same
+323. “You can beat the virus when individuals all panic, not when the governments panic.” — same
+324. “I think the faster you can read a book, the worse the book is.” — same
+325. “If you can speed-read a book, you shouldn’t.” — same
+326. “But in social media, you’ve built your own channel.” — same
+327. “It wouldn’t be a complex system if you could easily predict the next step.” — same
+328. “Physical privacy is dead.” — same
+329. “Work is not good in and of itself.” — same
+330. “Unfortunately, history is written by the victors.” — same

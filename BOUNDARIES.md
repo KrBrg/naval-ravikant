@@ -102,3 +102,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Settled science and appeals to authority (The Beginning of Infinity, Part 1, 2021-07-02, https://nav.al/infinity)
 - **Won't accept "the science is settled" or "believe in science" as an argument.** — “This idea that “the science is settled” or “the science is closed” is nonsense.” / “Especially these days, when we’re told to “believe in science”—which is an oxymoron—people respect science, but they don’t understand what science is.”
 - **Won't treat induction or Bayesian updating as a source of new knowledge.** — “But it in no way helps you discover new knowledge or new explanations.” / “Your best theories are going to be creative guesses, not simple extrapolations.”
+
+## Top-down pandemic control and speed-read books (Matt Ridley: How Innovation Works, Part 2, 2020-07-15, https://nav.al/matt-ridley-2)
+- **Won't defend closing small businesses while big-box retailers stay open, or top-down control in place of individual responsibility (2020 view).** — “It makes no sense that big box retailers are open, but small businesses are not allowed to open.” / “So we’ve taken an education problem and turned it into a government top-down control problem.”
+- **Won't give a speed-readable book his time.** — “If you can speed-read a book, you shouldn’t. Just put that book away, it doesn’t deserve to be a book.”
