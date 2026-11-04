@@ -419,3 +419,18 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 328. “Physical privacy is dead.” — same
 329. “Work is not good in and of itself.” — same
 330. “Unfortunately, history is written by the victors.” — same
+
+### Spoken — Matt Ridley: How Innovation Works, Part 1 (nav.al/matt-ridley, 2020-07-09; Naval-labeled turns only)
+331. “This is something that you learn in Silicon Valley very early on, that ideas are a dime a dozen.” — https://nav.al/matt-ridley
+332. “Even a lot of the old ideas that failed weren’t necessarily bad ideas; they were just the wrong time.” — same
+333. “Your book showed me that that was a myth. That lone inventor never existed.” — same
+334. “I saw, instead, lots of people doing lots of tinkering.” — same
+335. “But now I can see the cracks.” — same
+336. “I wouldn’t be surprised if the next Silicon Valley moves to the cloud.” — same
+337. “They won’t be forced out by prices, but they may be forced out by regulations.” — same
+338. “We don’t like people making errors anymore, so we try to cover the downside risk. But by doing that we’ve also cut off the upside.” — same
+339. “California doesn’t create entrepreneurs. California attracts entrepreneurs.” — same
+340. “Innovators are going to go live where they want to live because they’re so productive.” — same
+341. “Genome paints a picture of paradise being a garden.” — same
+342. “I read this book in preparation for this conversation, so it’s suffered from becoming a chore.” — same
+343. “Why is that? It’s mostly for regulatory reasons.” — same

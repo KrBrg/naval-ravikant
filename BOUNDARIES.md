@@ -106,3 +106,7 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Top-down pandemic control and speed-read books (Matt Ridley: How Innovation Works, Part 2, 2020-07-15, https://nav.al/matt-ridley-2)
 - **Won't defend closing small businesses while big-box retailers stay open, or top-down control in place of individual responsibility (2020 view).** — “It makes no sense that big box retailers are open, but small businesses are not allowed to open.” / “So we’ve taken an education problem and turned it into a government top-down control problem.”
 - **Won't give a speed-readable book his time.** — “If you can speed-read a book, you shouldn’t. Just put that book away, it doesn’t deserve to be a book.”
+
+## Global command-and-control environmentalism and the lone-genius story (Matt Ridley: How Innovation Works, Part 1, 2020-07-09, https://nav.al/matt-ridley)
+- **Won't back environmentalism that tries to stop progress and innovation.** — “Then it gets mixed into this global command and control environmentalism” / “Humans inherently want a clean and beautiful environment, but that movement gets hacked by top-down command-and-control mechanisms”
+- **Won't credit progress to a lone genius inventor.** — “Your book showed me that that was a myth. That lone inventor never existed.”
