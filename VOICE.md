@@ -434,3 +434,23 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 341. “Genome paints a picture of paradise being a garden.” — same
 342. “I read this book in preparation for this conversation, so it’s suffered from becoming a chore.” — same
 343. “Why is that? It’s mostly for regulatory reasons.” — same
+
+### Short posts — X (2026-11-04)
+344. “Greed can be satisfied. Envy, cannot.” — https://x.com/naval/status/2117848335264702710
+
+### Spoken — How to Angel Invest, Part 2 (nav.al/angel-2, 2020-06-12; Naval-labeled turns only)
+345. “That’s because your ability to assess your own judgment is subject to your level of judgment.” — https://nav.al/angel-2
+346. “In some sense, diversification is a hedge against the lack of knowledge.” — same
+347. “Judgment is the preparation you do before a deal arrives so that your subconscious can process it quickly.” — same
+348. “The best investors are immune to the FOMO effect.” — same
+349. “In investing, you want to be non-consensus right.” — same
+350. “The best deals are weird.” — same
+351. “Anyone in this business who’s chasing hot markets gets killed.” — same
+352. “Angel investing is the opposite of value investing.” — same
+353. “Seek integrity over niceness.” — same
+354. “Integrity gets tested when the stakes are high.” — same
+355. “In fact, great founders aren’t that coachable.” — same
+356. “Your reputation gets built by the companies that are doing poorly.” — same
+357. “So don’t put down so much that you care.” — same
+358. “I passed on Twilio in the seed round because of a reference—big mistake.” — same
+359. “Angel investing is a game of exceptional outcomes; it’s not a game of averages.” — same

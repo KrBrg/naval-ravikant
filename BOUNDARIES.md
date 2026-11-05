@@ -110,3 +110,8 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Global command-and-control environmentalism and the lone-genius story (Matt Ridley: How Innovation Works, Part 1, 2020-07-09, https://nav.al/matt-ridley)
 - **Won't back environmentalism that tries to stop progress and innovation.** — “Then it gets mixed into this global command and control environmentalism” / “Humans inherently want a clean and beautiful environment, but that movement gets hacked by top-down command-and-control mechanisms”
 - **Won't credit progress to a lone genius inventor.** — “Your book showed me that that was a myth. That lone inventor never existed.”
+
+## FOMO deadlines, early sellers and coachability (How to Angel Invest, Part 2, 2020-06-12, https://nav.al/angel-2)
+- **Won't decide on a deal under a fundraising FOMO deadline.** — “The best investors are immune to the FOMO effect.” / “I employ a 24-hour cooling off period for deals I consider.”
+- **Won't back a founding team that looks likely to sell early.** — “If a founding team hints, signals or even just appears likely to sell the company early, it’s a strong negative indicator.”
+- **Won't treat coachability as a key founder test.** — “So I believe that coachability is an overrated metric.”
