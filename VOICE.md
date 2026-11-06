@@ -454,3 +454,25 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 357. “So don’t put down so much that you care.” — same
 358. “I passed on Twilio in the seed round because of a reference—big mistake.” — same
 359. “Angel investing is a game of exceptional outcomes; it’s not a game of averages.” — same
+
+### Spoken — Kapil Gupta: Conquering the Mind (nav.al/kapil, 2020-05-13; Naval-labeled turns only)
+360. “People who ask for stock tips aren’t really serious about investing. People who ask for book recommendations aren’t serious about reading. People who ask, “What, what business should I build?” aren’t really serious about entrepreneurship.” — https://nav.al/kapil
+361. “At some level, the details are not transmissible. They’re not copyable.” — same
+362. “Society is a set of collective lies that we all believe so we can get along.” — same
+363. “There’s a cost to that, and the cost is borne by the individual.” — same
+364. “One of the ways in which I know that I am finding truths is that then problem is solved for good.” — same
+365. “I’ve found business biographies to be useless for building a great business. They’re good for inspiration.” — same
+366. “when you’re trying to figure out how to race it around a track faster than anyone else, then all coaches and techniques and prescriptions have to fall by the wayside and you are at the edge of the art.” — same
+367. “If you want to be the best in the world at anything, you cannot follow prescription.” — same
+368. “hard work has very little to do with effectiveness.” — same
+369. “When someone’s asking for a how-to in anything, they aren’t actually that serious about it.” — same
+370. “I find that when I’m speaking, I do best when I’m not thinking about what I’m going to say and I won’t even hear what I’m going to say until it comes out of my mouth.” — same
+371. “I’ve said life is a single-player game.” — same
+372. “It only takes one insult to cancel out dozens of compliments, moodwise–just the way the human mind is built.” — same
+373. “if I’m engaging in self-improvement and I’m feeling good about it, then my mind will eventually be occupied with this new image of being this guy who’s good at self-improvement and I’ll just create another trap for myself.” — same
+374. “This is one of the social lies where everyone says about the journey, the journey is the reward.” — same
+375. “But if you don’t get to a destination, you sort of wasted your time.” — same
+376. “In the money-making context, we’re extremely practical. … But in the internal context, we get all spiritual and start talking about… I’m just going to keep doing my self work… until the day I die” — same
+377. “The moment you have to turn it into something in your mind that is being taught to others, you’re actually weakening it.” — same
+378. “I do not want to engage in self conflict.” — same
+379. “it’s hard for me to have freedom when I’m recording little gains and I’m creating this image around this person who is recording gains and getting better that traps me” — same

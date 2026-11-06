@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced from Naval’s first-party posts, nav.al essays/podcasts, and interviews where he is the labeled speaker. Do not invent quotes.
+Sourced from Naval’s first-party posts, nav.al essays/podcasts, and interviews where he is the labeled speaker. Paraphrases below are backed by short exact quotes in `state/evidence.md`. Do not invent quotes.
 
 ## Wealth, money, status
 
@@ -422,3 +422,18 @@ Source: https://nav.al/angel-2 (Spearhead episode compilation; Naval-labeled tur
 - **Technologists are the secret weapon.** Surround yourself with honest, distinguished scientists and technologists rather than reading tech news.
 - **Reputation comes from the losers.** Your reputation, and so your future access, is built by how you treat companies doing poorly. Never have so much at risk that you care.
 - **References mislead.** He passed on Twilio at seed because of a reference; VC references are among the worst type. Angel investing is a game of exceptional outcomes, not averages.
+
+## Prescriptions fail at the edge, tip-askers aren't serious, shared fictions tax the individual, and a truth is what solves the problem for good (Kapil Gupta: Conquering the Mind backfill, 2020-05-13, https://nav.al/kapil)
+Source: https://nav.al/kapil (Naval interviewing Kapil Gupta; email-list exclusive transcript via wp-json). Naval-labeled turns only. Kapil's answers not attributed. Mentions of Buffett/Federer are Naval using them as examples of non-transmissible excellence, not as Buffett/Federer opinions. Views dated 2020.
+- **People who ask for how-tos aren't serious.** Stock tips, book recommendations, "what business should I build?", "what career path?" — if they were serious they'd figure it out. No one good at trading gives actionable public tips; the details don't convey.
+- **Excellence isn't copyable from description.** You can't watch Federer and swing the same way, and Buffett's investment construct leaves out as many details as Federer's body does. Details aren't transmissible; without sincerity and obsession you won't get there. Even the expert often doesn't know how they do it.
+- **How-tos work for mechanical basics, not the edge.** Business biographies inspire but don't build a great business. Learning to drive is mechanical; racing the track faster than anyone else means coaches and prescriptions fall away and you're at the edge of the art. Want to be okay — follow a worksheet; want to be world-class — forge your own path.
+- **Hard work ≠ effectiveness.** A restaurant worker and Elon can both do 60–80 hours; earning power comes from specific knowledge that can't be taught but can be learned on the job with enough desire. Vague principles can point; they can't teach you how to make money.
+- **Society runs on shared fictions.** Collective lies we believe so we can cooperate and not kill each other; the cost is borne by the individual. Speaking raw truth in public is hard because of that.
+- **A truth is what solves the problem for good.** Internally quieter, externally less complicated; you don't revisit the same problem. Self-improvement that feels good can just build a new image-trap ("I'm the guy who's good at self-improvement").
+- **"The journey is the reward" is a social lie if you never arrive.** In money-making people want a pile while alive; in the internal/spiritual context forever-on-the-path is considered acceptable. Begin with concrete problems and examine them for unpopular truth until they're solved.
+- **Life is a single-player game.** You're mostly in conflict with yourself; born alone, die alone; interpretation is through you.
+- **Compliments and insults are one trade.** Liking compliments is why insults sting — they hit a fear they might be true. Understanding the trade is a form of freedom even if you keep making it.
+- **Teaching an insight too early weakens it.** Converting every realization into a tweet or lecture introduces falsehoods and caveats; you stop facing the raw truth. Inspiration of others often fades, and he has regretted inspiring people to start businesses they couldn't sustain without him.
+- **Immersion creates inevitability.** Hang around entrepreneurs long enough and you're in the business; attraction plus immersion soaks in even when no book or podcast can prescribe conquering the mind.
+- **Don't pick a side in self-conflict.** When two parts of the mind fight, favoring angel vs devil is another should that slows you down. Recording little freedom-gains builds an image that traps you the moment you get angry or feel unfree.
