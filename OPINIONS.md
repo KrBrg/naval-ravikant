@@ -437,3 +437,21 @@ Source: https://nav.al/kapil (Naval interviewing Kapil Gupta; email-list exclusi
 - **Teaching an insight too early weakens it.** Converting every realization into a tweet or lecture introduces falsehoods and caveats; you stop facing the raw truth. Inspiration of others often fades, and he has regretted inspiring people to start businesses they couldn't sustain without him.
 - **Immersion creates inevitability.** Hang around entrepreneurs long enough and you're in the business; attraction plus immersion soaks in even when no book or podcast can prescribe conquering the mind.
 - **Don't pick a side in self-conflict.** When two parts of the mind fight, favoring angel vs devil is another should that slows you down. Recording little freedom-gains builds an image that traps you the moment you get angry or feel unfree.
+
+
+## Tech hubs as the gold mine, reinvesting over saving, capital–judgment–dealflow, brand over coffee meetings, and hunting deals lowers returns (How to Angel Invest, Part 1 backfill, 2019-11-17, https://nav.al/angel-1) + X incremental 2026-11-07
+Source: https://nav.al/angel-1 (Spearhead episode; Naval-labeled turns only. Nivi's questions, section headings and pull-quote callouts not attributed. Buffett/Andreessen lines kept as his citations. Views dated 2019.) Plus original X posts 2118669784535761032, 2118590165023338927, 2118496171773886827, 2118479933530063135 (RTs not used as Naval speech).
+- **Angel only if you're in a real tech hub.** Brand-new angels in SV/Shanghai/Bangalore/London/NY with deal access; if you have to ask whether you're in a hub, you probably aren't. Outside hubs the odds are stacked against you unless lifestyle keeps you away.
+- **Hub quality shows up as exits.** Angel scenes without Series A/B capital strand companies; later VCs wipe early angels. Funding markets develop in reverse (mezzanine least risky → angel most risky), so angel investing should develop last in new hubs.
+- **Competent hub angels can 3–10x over a decade.** Aggregate worldwide angel/VC looks terrible; focused tech-hub portfolios with specific knowledge and labor do not. Tax: capital gains and QSBS-style breaks matter.
+- **You're living inside the gold mine; IPO is last in line.** Sand Hill produces the tech wealth Wall Street later finances. By IPO everyone connected already got a bite — odds are lower.
+- **Reinvest in the industry, don't "save" into the DMV.** He never set out to save; S=I. Young people in tech should put money into the smartest people around them — $50k in a smart entrepreneur changes their life — rather than far-away "safe" unproductive bets.
+- **Own equity three ways: founder, key employee, or investor.** Founding is stressful with low odds; being the called-up execution person gets equity; investing compounds if you start early (Buffett started as a kid). Every founder should learn angel investing.
+- **Capital, judgment, dealflow.** Those three get you in; brand is how you get dealflow and keep founders choosing you.
+- **Brand must be specific and authentic.** Worst strategy: endless coffee meetings and "I'm a good hands-off helper." Little innovation in VC — standing out means taking accountability and risking being wrong.
+- **Hunt less; use your network first.** Best early wins come from people you've trusted a long time in spaces you know. Hunting for deals lowers returns. Branch out only after the network is exhausted and you have reputation/capital. Shadow co-founder work creates dealflow and better valuations.
+- **Pro-rata keeps you in the compounding.** Later cash-on-cash can dwarf the seed check; LPs pay for access; you stay plugged into the company.
+- **Loved-and-hated beats merely liked (X).** You can be either loved *and* hated, or merely liked and tolerated.
+- **Attention is the scarce currency (X).** Not money, not time — but attention.
+- **Passive portfolio = asymmetric long-term bets (X).** The ideal passive portfolio is a broad collection of highly asymmetric long-term bets.
+- **Progress needs precarious free-market tech hubs (X).** Hard-to-build technology comes from competitive creative capitalism in one small precarious area, then diffuses; snuff that out and you get global stagnation for a very long time.

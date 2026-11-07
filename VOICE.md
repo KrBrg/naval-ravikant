@@ -476,3 +476,27 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 377. “The moment you have to turn it into something in your mind that is being taught to others, you’re actually weakening it.” — same
 378. “I do not want to engage in self conflict.” — same
 379. “it’s hard for me to have freedom when I’m recording little gains and I’m creating this image around this person who is recording gains and getting better that traps me” — same
+
+
+### Short posts — incremental 2026-11-07 (X, 2026-11-05/06; originals only)
+380. “You can be either loved *and* hated, or merely liked and tolerated.” — https://x.com/naval/status/2118669784535761032
+381. “Not money, not time - but attention.” — https://x.com/naval/status/2118590165023338927
+382. “The ideal passive portfolio is a broad collection of highly asymmetric long-term bets.” — https://x.com/naval/status/2118496171773886827
+383. “Actual progress comes from hard-to-build technology.” — https://x.com/naval/status/2118479933530063135
+384. “Which comes from competitive, creative, free-market capitalism.” — same
+385. “Snuff that out, and it’s global stagnation for an extremely long time.” — same
+
+### Spoken — How to Angel Invest, Part 1 (nav.al/angel-1, 2019-11-17; Naval-labeled turns only)
+386. “If you have to ask, then you probably aren’t in one.” — https://nav.al/angel-1
+387. “A competent angel investor in Silicon Valley who’s plugged into a good network, knows what they’re doing and has a broad portfolio might make somewhere between three to 10 times their money over a decade.” — same
+388. “So if you’re investing in a tech company’s IPO, you are literally last in line.” — same
+389. “But I never set out to save anything; I reinvested almost everything.” — same
+390. “The three things it takes to get into investing are capital, judgment and dealflow.” — same
+391. “The worst strategy is taking a lot of coffee meetings or saying, “I’m a good, passive, hands-off person. I won’t bother you, and I’m always available to help.”” — same
+392. “There’s extremely little innovation in the venture capital business. It’s quite easy to stand out.” — same
+393. “You have to be willing to take on accountability and risk being wrong.” — same
+394. “The urge to hunt for deals actually will lower your returns.” — same
+395. “Some of the best angel investors make early wins by investing in people in their close network, in spaces they know well.” — same
+396. “The best way to get good valuations and dealflow is to create it yourself: Ally yourself with entrepreneurs and become their shadow business co-founder.” — same
+397. “One great reason to angel invest is that it keeps you sharp.” — same
+398. “We’re also constantly changing our minds and learning. That’s what intelligent people do.” — same
