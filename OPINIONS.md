@@ -455,3 +455,13 @@ Source: https://nav.al/angel-1 (Spearhead episode; Naval-labeled turns only. Niv
 - **Attention is the scarce currency (X).** Not money, not time — but attention.
 - **Passive portfolio = asymmetric long-term bets (X).** The ideal passive portfolio is a broad collection of highly asymmetric long-term bets.
 - **Progress needs precarious free-market tech hubs (X).** Hard-to-build technology comes from competitive creative capitalism in one small precarious area, then diffuses; snuff that out and you get global stagnation for a very long time.
+
+
+## Price environmental externalities instead of throwing away capitalism or running feel-good campaigns (nav.al/externalities backfill, 2019-07-31 — “Externalities: Calculating the Hidden Costs of Products”)
+Source: https://nav.al/externalities (wp-json posts/28493370). Naval-labeled turns and unlabeled continuation after his first answer; Nivi's question and section headings not attributed. Views dated 2019. No new original X posts this wake (2 RTs skipped).
+- **An externality is a hidden cost.** It's an additional cost imposed by producing or consuming a product that isn't in the price. Sometimes you can fix it by putting that cost back into the price.
+- **Don't throw away capitalism over environmental harm.** Critics say capitalism is destroying the environment; abandoning it sends everyone back to pre-industrial times, which is not a good thing.
+- **Price the environment and fold it into products.** The environment is finite and precious, so price it properly and fold that back into the cost of products and services.
+- **Charge the real cleanup cost — even if it's very high.** If people waste water, release hydrocarbons, or pollute in other ways, society should charge what it costs to clean up and return the environment to a pristine state. Raise the price high enough and you'll knock out pollution.
+- **Feel-good bans lose to a real price.** That's much better than banning plastic bags or restricting showers during a drought. California scare-ads about skipping showers are worse than raising the price of fresh water: the average consumer might pay pennies more, while almond farmers who use a lot of water cut back or move to where water is abundant.
+- **Proper pricing saves resources.** It's a good framework when you actually want to save the environment, rather than doing feel-good things that won't amount to anything.

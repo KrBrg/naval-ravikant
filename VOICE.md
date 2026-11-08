@@ -500,3 +500,15 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 396. “The best way to get good valuations and dealflow is to create it yourself: Ally yourself with entrepreneurs and become their shadow business co-founder.” — same
 397. “One great reason to angel invest is that it keeps you sharp.” — same
 398. “We’re also constantly changing our minds and learning. That’s what intelligent people do.” — same
+
+### Spoken — Externalities: Calculating the Hidden Costs of Products (nav.al/externalities, 2019-07-31; Naval-labeled turns only)
+399. “An externality is where there’s an additional cost imposed by whatever product is being produced or consumed, that’s not accounted for in the price of the product.” — https://nav.al/externalities
+400. “Sometimes you can fix it by putting the cost back into the price.” — same
+401. “If you throw away capitalism because it’s destroying the environment, then guess what—we’re all headed back to pre-industrial times.” — same
+402. “Because the environment is finite and precious, we have to price it properly and fold that back into the cost of products and services.” — same
+403. “society should charge them what it costs to clean up the pollution and return the environment to a pristine state.” — same
+404. “If you raise the price high enough, you’ll knock out pollution.” — same
+405. “That’s much better than feel-good measures like banning plastic bags or restricting showers during a drought.” — same
+406. “It would be better to raise the price of fresh water.” — same
+407. “Properly pricing externalities can save resources in a tremendous way.” — same
+408. “It’s a good framework to use when you want to do things like save the environment, rather than doing feel-good things that won’t actually amount to anything.” — same
