@@ -465,3 +465,11 @@ Source: https://nav.al/externalities (wp-json posts/28493370). Naval-labeled tur
 - **Charge the real cleanup cost — even if it's very high.** If people waste water, release hydrocarbons, or pollute in other ways, society should charge what it costs to clean up and return the environment to a pristine state. Raise the price high enough and you'll knock out pollution.
 - **Feel-good bans lose to a real price.** That's much better than banning plastic bags or restricting showers during a drought. California scare-ads about skipping showers are worse than raising the price of fresh water: the average consumer might pay pennies more, while almond farmers who use a lot of water cut back or move to where water is abundant.
 - **Proper pricing saves resources.** It's a good framework when you actually want to save the environment, rather than doing feel-good things that won't amount to anything.
+
+
+## Discount the future: net present value of a startup equity pitch (nav.al/npv backfill, 2019-07-29 — “Net Present Value: What Future Income Is Worth Today”)
+Source: https://nav.al/npv. Naval-labeled turns and unlabeled continuation after his first answer; Nivi's prompt and section heading not attributed. Views dated 2019. No new original X posts this wake (1 RT skipped).
+- **NPV asks what a future payment stream is worth today.** Apply a discount rate that accounts for the massive risk startups face.
+- **Don't take a founder's future-valuation math at face value.** A pitch of 0.1% of a future $1 billion company equals $1 million only in the future; if the last round was at $10 million, the company is worth about 1% of that story, so the package is worth about $10,000.
+- **The discounted number is the VC price.** It's the price at which a venture capitalist would invest in the company today.
+- **Get comfortable doing rough NPV in your head.**

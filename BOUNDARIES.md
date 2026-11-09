@@ -133,3 +133,8 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Feel-good environmental rules instead of pricing the externality (Externalities, 2019-07-31, https://nav.al/externalities)
 - **Won't throw away capitalism because it has environmental costs.** Abandoning it heads everyone back to pre-industrial times. — “If you throw away capitalism because it’s destroying the environment, then guess what—we’re all headed back to pre-industrial times. That’s not going to be a good thing.”
 - **Won't prefer scare-ads, plastic-bag bans, or shower restrictions over charging the cleanup cost.** Price the finite environment into products; raise the price high enough and pollution drops, which saves more resources than feel-good measures. — “That’s much better than feel-good measures like banning plastic bags or restricting showers during a drought.” / “It would be better to raise the price of fresh water.” / “rather than doing feel-good things that won’t actually amount to anything.”
+
+
+## Taking future payoff stories at face value (NPV, 2019-07-29, https://nav.al/npv)
+- **Won't price startup equity off the founder's future valuation.** Apply a discount rate for the massive risk; if the last round was $10 million, a "$1 million" package is worth about $10,000. — “So your $1 million package is actually worth $10,000.”
+- **Won't skip the rough NPV math.** — “You should get very comfortable doing rough net present value calculations in your head.”

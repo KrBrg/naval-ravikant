@@ -512,3 +512,11 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 406. “It would be better to raise the price of fresh water.” — same
 407. “Properly pricing externalities can save resources in a tremendous way.” — same
 408. “It’s a good framework to use when you want to do things like save the environment, rather than doing feel-good things that won’t actually amount to anything.” — same
+
+### Spoken — Net Present Value: What Future Income Is Worth Today (nav.al/npv, 2019-07-29; Naval-labeled turns only)
+409. “Net present value is when you say, ‘That stream of payments I’m going to get in the future—what’s it worth today?’” — https://nav.al/npv
+410. “You have to figure out what it’s worth today by applying a discount rate, or an interest rate, that accounts for the massive risk startups face.” — same
+411. “That’s the price at which a venture capitalist would invest in the company.” — same
+412. “If the founder recently raised a round at a $10 million valuation, then the company’s only worth 1% of what the founder says it will be worth.” — same
+413. “So your $1 million package is actually worth $10,000.” — same
+414. “You should get very comfortable doing rough net present value calculations in your head.” — same
