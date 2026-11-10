@@ -520,3 +520,13 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 412. “If the founder recently raised a round at a $10 million valuation, then the company’s only worth 1% of what the founder says it will be worth.” — same
 413. “So your $1 million package is actually worth $10,000.” — same
 414. “You should get very comfortable doing rough net present value calculations in your head.” — same
+
+
+### Spoken — Consumer Surplus: Getting More Than You Paid For (nav.al/surplus, 2019-07-25; Naval-labeled turn)
+415. “Consumer surplus is the excess value you get from something when you pay less than you were willing to pay.” — https://nav.al/surplus
+416. “I get a lot of joy out of my morning Starbucks coffee.” — same
+417. “But Starbucks doesn’t know that.” — same
+418. “They can’t price the coffee at $20 just for me, because they’re selling the exact same product to others.” — same
+419. “All businesses generate consumer surplus.” — same
+420. “It’s a good thing to keep in mind when someone’s harping on about how evil companies are.” — same
+421. “Amazon might be a trillion-dollar company, but I’ll bet they’re generating trillions of dollars in consumer surplus through people’s willingness to pay for convenience.” — same

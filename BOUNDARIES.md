@@ -138,3 +138,8 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Taking future payoff stories at face value (NPV, 2019-07-29, https://nav.al/npv)
 - **Won't price startup equity off the founder's future valuation.** Apply a discount rate for the massive risk; if the last round was $10 million, a "$1 million" package is worth about $10,000. — “So your $1 million package is actually worth $10,000.”
 - **Won't skip the rough NPV math.** — “You should get very comfortable doing rough net present value calculations in your head.”
+
+
+## Judging companies only by what they capture (consumer surplus, 2019-07-25, https://nav.al/surplus)
+- **Won't accept "evil company" talk that ignores the value customers keep.** — “All businesses generate consumer surplus.” / “It’s a good thing to keep in mind when someone’s harping on about how evil companies are.”
+- **Won't assume a big company's size shows only what it took.** — “Amazon might be a trillion-dollar company, but I’ll bet they’re generating trillions of dollars in consumer surplus through people’s willingness to pay for convenience.”

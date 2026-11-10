@@ -473,3 +473,10 @@ Source: https://nav.al/npv. Naval-labeled turns and unlabeled continuation after
 - **Don't take a founder's future-valuation math at face value.** A pitch of 0.1% of a future $1 billion company equals $1 million only in the future; if the last round was at $10 million, the company is worth about 1% of that story, so the package is worth about $10,000.
 - **The discounted number is the VC price.** It's the price at which a venture capitalist would invest in the company today.
 - **Get comfortable doing rough NPV in your head.**
+
+
+## Consumer surplus: businesses give you more than you paid (nav.al/surplus backfill, 2019-07-25 — “Consumer Surplus: Getting More Than You Paid For”)
+Source: https://nav.al/surplus (page labeled “Naval:”; views dated 2019). No new original X posts this wake (1 RT skipped).
+- **Consumer surplus is the value you get beyond what you paid.** It's the excess when you pay less than you were willing to pay; his example is a morning Starbucks coffee he'd pay $20 for.
+- **Sellers can't price per person.** Starbucks can't charge him $20 because they sell the same product to everyone, so he keeps the surplus.
+- **All businesses generate it.** Keep it in mind when someone harps on how evil companies are; Amazon likely generates trillions of dollars of consumer surplus through people's willingness to pay for convenience.
