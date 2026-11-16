@@ -480,3 +480,11 @@ Source: https://nav.al/surplus (page labeled “Naval:”; views dated 2019). No
 - **Consumer surplus is the value you get beyond what you paid.** It's the excess when you pay less than you were willing to pay; his example is a morning Starbucks coffee he'd pay $20 for.
 - **Sellers can't price per person.** Starbucks can't charge him $20 because they sell the same product to everyone, so he keeps the surplus.
 - **All businesses generate it.** Keep it in mind when someone harps on how evil companies are; Amazon likely generates trillions of dollars of consumer surplus through people's willingness to pay for convenience.
+
+
+## Price discrimination, founders, and datacenters (nav.al/price-discrimination 2019-07-25 backfill; X 2026-11-12/13)
+Sources: https://nav.al/price-discrimination; https://x.com/naval/status/2121143697161236839, https://x.com/naval/status/2120798325066911758, https://x.com/naval/status/2120752211588452715.
+- **Charge by propensity to pay, but give them something extra.** You can't charge people more just because you don't like them; the extra must be something rich people care about (business class costs five or 10 times more while perks cost the airline maybe two or three times more).
+- **Rich people and enterprises pay more for small comforts and signals.** Freemium enterprise software: the free version does almost everything; the extra-secure, hosted, multi-admin version costs 10 or 100 times more.
+- **Founders are irreplaceable (X, 2026).** "Jensen Huang is the Steve Jobs of Nvidia. He is irreplaceable ." and "one does not just simply replace the founder…" (views dated 2019 for the essay).
+- **Datacenters are a competitive global market.** "Someone, somewhere, will build them."

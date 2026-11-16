@@ -530,3 +530,16 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 419. “All businesses generate consumer surplus.” — same
 420. “It’s a good thing to keep in mind when someone’s harping on about how evil companies are.” — same
 421. “Amazon might be a trillion-dollar company, but I’ll bet they’re generating trillions of dollars in consumer surplus through people’s willingness to pay for convenience.” — same
+
+
+### Short posts — X (2026-11-12 to 2026-11-13)
+422. “Jensen Huang is the Steve Jobs of Nvidia. He is irreplaceable .” — https://x.com/naval/status/2121143697161236839
+423. “Datacenters are a globally competitive market. Someone, somewhere, will build them.” — https://x.com/naval/status/2120798325066911758
+424. “You’d think we’d have learned from Steve Jobs and Travis Kalanick that one does not just simply replace the founder…” — https://x.com/naval/status/2120752211588452715
+
+### Written/spoken — Price Discrimination: Charge Some People More (2019-07-25, https://nav.al/price-discrimination, Naval-labeled)
+425. “Price discrimination is important. It means you can charge people based on their propensity to pay.” — https://nav.al/price-discrimination
+426. “Now, you can’t charge people different amounts just because you don’t like them. You have to offer them something extra.” — same
+427. “But it has to be something rich people care about.” — same
+428. “Price discrimination works because rich people are willing to pay more.” — same
+429. “You just have to give them the extra little things they need to signal they’re rich or that little bit of comfort they want.” — same

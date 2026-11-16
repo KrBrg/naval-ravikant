@@ -143,3 +143,8 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Judging companies only by what they capture (consumer surplus, 2019-07-25, https://nav.al/surplus)
 - **Won't accept "evil company" talk that ignores the value customers keep.** — “All businesses generate consumer surplus.” / “It’s a good thing to keep in mind when someone’s harping on about how evil companies are.”
 - **Won't assume a big company's size shows only what it took.** — “Amazon might be a trillion-dollar company, but I’ll bet they’re generating trillions of dollars in consumer surplus through people’s willingness to pay for convenience.”
+
+
+## Charging everyone the same (price discrimination, 2019-07-25)
+- **Won't charge people more just because he doesn't like them.** — “Now, you can’t charge people different amounts just because you don’t like them. You have to offer them something extra.” — https://nav.al/price-discrimination
+- **Won't treat a founder as a swappable role.** — “one does not just simply replace the founder…” — https://x.com/naval/status/2120752211588452715
