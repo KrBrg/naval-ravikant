@@ -488,3 +488,11 @@ Sources: https://nav.al/price-discrimination; https://x.com/naval/status/2121143
 - **Rich people and enterprises pay more for small comforts and signals.** Freemium enterprise software: the free version does almost everything; the extra-secure, hosted, multi-admin version costs 10 or 100 times more.
 - **Founders are irreplaceable (X, 2026).** "Jensen Huang is the Steve Jobs of Nvidia. He is irreplaceable ." and "one does not just simply replace the founder…" (views dated 2019 for the essay).
 - **Datacenters are a competitive global market.** "Someone, somewhere, will build them."
+
+
+## Business models with leverage (nav.al/business-models, 2019-04-22; X 2026-11-20 to 21)
+Sources: https://nav.al/business-models; https://x.com/naval/status/2123966274321719745, https://x.com/naval/status/2123765252844306678, https://x.com/naval/status/2123961809963245728. Essay views dated 2019.
+- **Pick a business model with scale economies.** "You should try and get into a business where making Widget Number 12 is cheaper than making Widget Number 5": builds an automatic barrier to entry against commoditization.
+- **Zero marginal cost of reproduction** (software, media): slow to get going because little money per user, then it adds up. "Creating another copy of what you just created is free."
+- **Network effects are the most subtle and most important.** "You want to be in a network effects business, assuming you’re not number two." Number one wins everything; these businesses are natural monopolies. A network effect is when each additional user adds value to existing users; always think about how customers add value to each other.
+- **Inquiry (X):** "Is there a thinker behind the thought?" / "Is there a doer behind the deed?" / "Is there an observer behind the observation?" Also, tersely on gadgets: "The iPhone Duo is the best iPad Apple’s ever made."

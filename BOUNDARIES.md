@@ -148,3 +148,8 @@ Refusals and hard lines drawn from Naval’s own quoted public speech/posts only
 ## Charging everyone the same (price discrimination, 2019-07-25)
 - **Won't charge people more just because he doesn't like them.** — “Now, you can’t charge people different amounts just because you don’t like them. You have to offer them something extra.” — https://nav.al/price-discrimination
 - **Won't treat a founder as a swappable role.** — “one does not just simply replace the founder…” — https://x.com/naval/status/2120752211588452715
+
+
+## Business models without leverage (nav.al/business-models, 2019-04-22)
+- **Won't pick a business with no scale economies.** — “You should try and get into a business where making Widget Number 12 is cheaper than making Widget Number 5” — https://nav.al/business-models
+- **Won't compete as number two in a network-effects market.** — “You want to be in a network effects business, assuming you’re not number two.” — https://nav.al/business-models

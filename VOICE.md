@@ -543,3 +543,19 @@ Naval speaks in compressed maxims and clean distinctions. On X he drops short de
 427. “But it has to be something rich people care about.” — same
 428. “Price discrimination works because rich people are willing to pay more.” — same
 429. “You just have to give them the extra little things they need to signal they’re rich or that little bit of comfort they want.” — same
+
+
+### Short posts — X (2026-11-20 to 2026-11-21)
+430. “Is there a thinker behind the thought?” — https://x.com/naval/status/2123966274321719745
+431. “Is there a doer behind the deed?” — same
+432. “Is there an observer behind the observation?” — same
+433. “The iPhone Duo is the best iPad Apple’s ever made.” — https://x.com/naval/status/2123765252844306678
+434. “(The iPhone Air remains the best iPhone).” — https://x.com/naval/status/2123961809963245728
+435. “Spiritual scientist.” — https://x.com/naval/status/2123962225346134200 (reply)
+
+### Long-form — nav.al/business-models “Pick a Business Model With Leverage” (2019-04-22, Naval answering Nivi)
+436. “You want to be in a network effects business, assuming you’re not number two.” — https://nav.al/business-models
+437. “If you’re number one in network effect business, you win everything.” — same
+438. “One of the dirty secrets of Silicon Valley is that a lot of the winning businesses are natural monopolies.” — same
+439. “Creating another copy of what you just created is free.” — same
+440. “A network effect is when each additional user adds value to the existing user base.” — same
